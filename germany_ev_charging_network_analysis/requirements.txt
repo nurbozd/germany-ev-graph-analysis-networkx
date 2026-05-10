@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+networkx
+geopandas
+geopy
+shapely
+python-louvain
+tqdm
+ipython

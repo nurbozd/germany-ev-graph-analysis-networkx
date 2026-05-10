@@ -1,0 +1,3420 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d4" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d3" for="edge" attr.name="distance" attr.type="double" />
+  <key id="d2" for="node" attr.name="longitude" attr.type="double" />
+  <key id="d1" for="node" attr.name="latitude" attr.type="double" />
+  <key id="d0" for="node" attr.name="population" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="Berlin">
+      <data key="d0">3755251.0</data>
+      <data key="d1">52.52</data>
+      <data key="d2">13.405</data>
+    </node>
+    <node id="Stuttgart">
+      <data key="d0">632865.0</data>
+      <data key="d1">48.7775</data>
+      <data key="d2">9.18</data>
+    </node>
+    <node id="Munich">
+      <data key="d0">1512491.0</data>
+      <data key="d1">48.1375</data>
+      <data key="d2">11.575</data>
+    </node>
+    <node id="Hamburg">
+      <data key="d0">1892122.0</data>
+      <data key="d1">53.55</data>
+      <data key="d2">10.0</data>
+    </node>
+    <node id="Cologne">
+      <data key="d0">1084831.0</data>
+      <data key="d1">50.9364</data>
+      <data key="d2">6.9528</data>
+    </node>
+    <node id="Frankfurt">
+      <data key="d0">773068.0</data>
+      <data key="d1">50.1106</data>
+      <data key="d2">8.6822</data>
+    </node>
+    <node id="Düsseldorf">
+      <data key="d0">629047.0</data>
+      <data key="d1">51.2333</data>
+      <data key="d2">6.7833</data>
+    </node>
+    <node id="Leipzig">
+      <data key="d0">616093.0</data>
+      <data key="d1">51.34</data>
+      <data key="d2">12.375</data>
+    </node>
+    <node id="Dortmund">
+      <data key="d0">593317.0</data>
+      <data key="d1">51.5139</data>
+      <data key="d2">7.4653</data>
+    </node>
+    <node id="Essen">
+      <data key="d0">584580.0</data>
+      <data key="d1">51.4508</data>
+      <data key="d2">7.0131</data>
+    </node>
+    <node id="Bremen">
+      <data key="d0">569396.0</data>
+      <data key="d1">53.0758</data>
+      <data key="d2">8.8072</data>
+    </node>
+    <node id="Dresden">
+      <data key="d0">563311.0</data>
+      <data key="d1">51.05</data>
+      <data key="d2">13.74</data>
+    </node>
+    <node id="Hannover">
+      <data key="d0">545045.0</data>
+      <data key="d1">52.3667</data>
+      <data key="d2">9.7167</data>
+    </node>
+    <node id="Nuremberg">
+      <data key="d0">523026.0</data>
+      <data key="d1">49.4539</data>
+      <data key="d2">11.0775</data>
+    </node>
+    <node id="Duisburg">
+      <data key="d0">502211.0</data>
+      <data key="d1">51.4347</data>
+      <data key="d2">6.7625</data>
+    </node>
+    <node id="Bochum">
+      <data key="d0">365742.0</data>
+      <data key="d1">51.4819</data>
+      <data key="d2">7.2158</data>
+    </node>
+    <node id="Wuppertal">
+      <data key="d0">358876.0</data>
+      <data key="d1">51.2667</data>
+      <data key="d2">7.1833</data>
+    </node>
+    <node id="Bielefeld">
+      <data key="d0">338332.0</data>
+      <data key="d1">52.0211</data>
+      <data key="d2">8.5347</data>
+    </node>
+    <node id="Bonn">
+      <data key="d0">336465.0</data>
+      <data key="d1">50.7333</data>
+      <data key="d2">7.1</data>
+    </node>
+    <node id="Münster">
+      <data key="d0">320946.0</data>
+      <data key="d1">51.9625</data>
+      <data key="d2">7.6256</data>
+    </node>
+    <node id="Mannheim">
+      <data key="d0">315554.0</data>
+      <data key="d1">49.4878</data>
+      <data key="d2">8.4661</data>
+    </node>
+    <node id="Karlsruhe">
+      <data key="d0">308707.0</data>
+      <data key="d1">49.0092</data>
+      <data key="d2">8.404</data>
+    </node>
+    <node id="Augsburg">
+      <data key="d0">301033.0</data>
+      <data key="d1">48.3689</data>
+      <data key="d2">10.8978</data>
+    </node>
+    <node id="Wiesbaden">
+      <data key="d0">283083.0</data>
+      <data key="d1">50.0825</data>
+      <data key="d2">8.24</data>
+    </node>
+    <node id="Mönchengladbach">
+      <data key="d0">268465.0</data>
+      <data key="d1">51.2</data>
+      <data key="d2">6.4333</data>
+    </node>
+    <node id="Gelsenkirchen">
+      <data key="d0">263000.0</data>
+      <data key="d1">51.5167</data>
+      <data key="d2">7.1</data>
+    </node>
+    <node id="Aachen">
+      <data key="d0">252136.0</data>
+      <data key="d1">50.7756</data>
+      <data key="d2">6.0836</data>
+    </node>
+    <node id="Braunschweig">
+      <data key="d0">251804.0</data>
+      <data key="d1">52.2667</data>
+      <data key="d2">10.5167</data>
+    </node>
+    <node id="Chemnitz">
+      <data key="d0">248563.0</data>
+      <data key="d1">50.8333</data>
+      <data key="d2">12.9167</data>
+    </node>
+    <node id="Kiel">
+      <data key="d0">247717.0</data>
+      <data key="d1">54.3233</data>
+      <data key="d2">10.1394</data>
+    </node>
+    <node id="Halle">
+      <data key="d0">242083.0</data>
+      <data key="d1">51.4828</data>
+      <data key="d2">11.9697</data>
+    </node>
+    <node id="Magdeburg">
+      <data key="d0">239364.0</data>
+      <data key="d1">52.1317</data>
+      <data key="d2">11.6392</data>
+    </node>
+    <node id="Freiburg im Breisgau">
+      <data key="d0">236140.0</data>
+      <data key="d1">47.995</data>
+      <data key="d2">7.85</data>
+    </node>
+    <node id="Krefeld">
+      <data key="d0">228426.0</data>
+      <data key="d1">51.3333</data>
+      <data key="d2">6.5667</data>
+    </node>
+    <node id="Mainz">
+      <data key="d0">220552.0</data>
+      <data key="d1">49.9994</data>
+      <data key="d2">8.2736</data>
+    </node>
+    <node id="Lübeck">
+      <data key="d0">218095.0</data>
+      <data key="d1">53.8697</data>
+      <data key="d2">10.6864</data>
+    </node>
+    <node id="Oberhausen">
+      <data key="d0">210824.0</data>
+      <data key="d1">51.4967</data>
+      <data key="d2">6.8706</data>
+    </node>
+    <node id="Rostock">
+      <data key="d0">209920.0</data>
+      <data key="d1">54.0833</data>
+      <data key="d2">12.1333</data>
+    </node>
+    <node id="Kassel">
+      <data key="d0">204202.0</data>
+      <data key="d1">51.3158</data>
+      <data key="d2">9.4979</data>
+    </node>
+    <node id="Hagen">
+      <data key="d0">189783.0</data>
+      <data key="d1">51.3667</data>
+      <data key="d2">7.4833</data>
+    </node>
+    <node id="Potsdam">
+      <data key="d0">185750.0</data>
+      <data key="d1">52.4</data>
+      <data key="d2">13.0667</data>
+    </node>
+    <node id="Saarbrücken">
+      <data key="d0">181959.0</data>
+      <data key="d1">49.2333</data>
+      <data key="d2">7.0</data>
+    </node>
+    <node id="Hamm">
+      <data key="d0">180849.0</data>
+      <data key="d1">51.6667</data>
+      <data key="d2">7.8167</data>
+    </node>
+    <node id="Ludwigshafen">
+      <data key="d0">174265.0</data>
+      <data key="d1">49.4811</data>
+      <data key="d2">8.4353</data>
+    </node>
+    <node id="Oldenburg">
+      <data key="d0">172830.0</data>
+      <data key="d1">53.1439</data>
+      <data key="d2">8.2139</data>
+    </node>
+    <node id="Mülheim">
+      <data key="d0">172404.0</data>
+      <data key="d1">51.4275</data>
+      <data key="d2">6.8825</data>
+    </node>
+    <node id="Osnabrück">
+      <data key="d0">167366.0</data>
+      <data key="d1">52.2833</data>
+      <data key="d2">8.05</data>
+    </node>
+    <node id="Leverkusen">
+      <data key="d0">165748.0</data>
+      <data key="d1">51.0333</data>
+      <data key="d2">6.9833</data>
+    </node>
+    <node id="Heidelberg">
+      <data key="d0">162273.0</data>
+      <data key="d1">49.4167</data>
+      <data key="d2">8.7167</data>
+    </node>
+    <node id="Darmstadt">
+      <data key="d0">162243.0</data>
+      <data key="d1">49.8722</data>
+      <data key="d2">8.6528</data>
+    </node>
+    <node id="Solingen">
+      <data key="d0">160643.0</data>
+      <data key="d1">51.1667</data>
+      <data key="d2">7.0833</data>
+    </node>
+    <node id="Regensburg">
+      <data key="d0">157443.0</data>
+      <data key="d1">49.0167</data>
+      <data key="d2">12.0833</data>
+    </node>
+    <node id="Herne">
+      <data key="d0">157368.0</data>
+      <data key="d1">51.55</data>
+      <data key="d2">7.2167</data>
+    </node>
+    <node id="Paderborn">
+      <data key="d0">154755.0</data>
+      <data key="d1">51.7181</data>
+      <data key="d2">8.7542</data>
+    </node>
+    <node id="Neuss">
+      <data key="d0">154139.0</data>
+      <data key="d1">51.2</data>
+      <data key="d2">6.7</data>
+    </node>
+    <node id="Ingolstadt">
+      <data key="d0">141029.0</data>
+      <data key="d1">48.7631</data>
+      <data key="d2">11.425</data>
+    </node>
+    <node id="Fürth">
+      <data key="d0">131433.0</data>
+      <data key="d1">49.4667</data>
+      <data key="d2">11.0</data>
+    </node>
+    <node id="Ulm">
+      <data key="d0">128928.0</data>
+      <data key="d1">48.4</data>
+      <data key="d2">9.9833</data>
+    </node>
+    <node id="Heilbronn">
+      <data key="d0">128334.0</data>
+      <data key="d1">49.15</data>
+      <data key="d2">9.2167</data>
+    </node>
+    <node id="Pforzheim">
+      <data key="d0">127849.0</data>
+      <data key="d1">48.895</data>
+      <data key="d2">8.705</data>
+    </node>
+    <node id="Würzburg">
+      <data key="d0">127810.0</data>
+      <data key="d1">49.7833</data>
+      <data key="d2">9.9333</data>
+    </node>
+    <node id="Wolfsburg">
+      <data key="d0">125961.0</data>
+      <data key="d1">52.4231</data>
+      <data key="d2">10.7872</data>
+    </node>
+    <node id="Göttingen">
+      <data key="d0">118946.0</data>
+      <data key="d1">51.5339</data>
+      <data key="d2">9.9356</data>
+    </node>
+    <node id="Bottrop">
+      <data key="d0">118113.0</data>
+      <data key="d1">51.5247</data>
+      <data key="d2">6.9228</data>
+    </node>
+    <node id="Reutlingen">
+      <data key="d0">117547.0</data>
+      <data key="d1">48.4833</data>
+      <data key="d2">9.2167</data>
+    </node>
+    <node id="Erlangen">
+      <data key="d0">116562.0</data>
+      <data key="d1">49.5833</data>
+      <data key="d2">11.0167</data>
+    </node>
+    <node id="Bremerhaven">
+      <data key="d0">115468.0</data>
+      <data key="d1">53.55</data>
+      <data key="d2">8.5833</data>
+    </node>
+    <node id="Koblenz">
+      <data key="d0">115268.0</data>
+      <data key="d1">50.3597</data>
+      <data key="d2">7.5978</data>
+    </node>
+    <node id="Bergisch Gladbach">
+      <data key="d0">112712.0</data>
+      <data key="d1">50.9918</data>
+      <data key="d2">7.1303</data>
+    </node>
+    <node id="Remscheid">
+      <data key="d0">112613.0</data>
+      <data key="d1">51.1833</data>
+      <data key="d2">7.2</data>
+    </node>
+    <node id="Trier">
+      <data key="d0">112195.0</data>
+      <data key="d1">49.7567</data>
+      <data key="d2">6.6414</data>
+    </node>
+    <node id="Recklinghausen">
+      <data key="d0">111734.0</data>
+      <data key="d1">51.585</data>
+      <data key="d2">7.1619</data>
+    </node>
+    <node id="Jena">
+      <data key="d0">111191.0</data>
+      <data key="d1">50.9272</data>
+      <data key="d2">11.5861</data>
+    </node>
+    <node id="Moers">
+      <data key="d0">105287.0</data>
+      <data key="d1">51.4592</data>
+      <data key="d2">6.6197</data>
+    </node>
+    <node id="Salzgitter">
+      <data key="d0">104548.0</data>
+      <data key="d1">52.15</data>
+      <data key="d2">10.3333</data>
+    </node>
+    <node id="Siegen">
+      <data key="d0">102560.0</data>
+      <data key="d1">50.8833</data>
+      <data key="d2">8.0167</data>
+    </node>
+    <node id="Gütersloh">
+      <data key="d0">102393.0</data>
+      <data key="d1">51.9</data>
+      <data key="d2">8.3833</data>
+    </node>
+    <node id="Hildesheim">
+      <data key="d0">101858.0</data>
+      <data key="d1">52.15</data>
+      <data key="d2">9.95</data>
+    </node>
+    <node id="Hanau">
+      <data key="d0">101364.0</data>
+      <data key="d1">50.1328</data>
+      <data key="d2">8.9169</data>
+    </node>
+    <node id="Kaiserslautern">
+      <data key="d0">101228.0</data>
+      <data key="d1">49.4447</data>
+      <data key="d2">7.7689</data>
+    </node>
+    <node id="Schwerin">
+      <data key="d0">98596.0</data>
+      <data key="d1">53.6333</data>
+      <data key="d2">11.4167</data>
+    </node>
+    <node id="Esslingen">
+      <data key="d0">94941.0</data>
+      <data key="d1">48.7333</data>
+      <data key="d2">9.3167</data>
+    </node>
+    <node id="Ludwigsburg">
+      <data key="d0">94157.0</data>
+      <data key="d1">48.8975</data>
+      <data key="d2">9.1922</data>
+    </node>
+    <node id="Flensburg">
+      <data key="d0">92550.0</data>
+      <data key="d1">54.7819</data>
+      <data key="d2">9.4367</data>
+    </node>
+    <node id="Gladbeck">
+      <data key="d0">75889.0</data>
+      <data key="d1">51.5667</data>
+      <data key="d2">6.9667</data>
+    </node>
+    <node id="Rosenheim">
+      <data key="d0">64403.0</data>
+      <data key="d1">47.85</data>
+      <data key="d2">12.1333</data>
+    </node>
+    <node id="Herten">
+      <data key="d0">62473.0</data>
+      <data key="d1">51.6</data>
+      <data key="d2">7.1333</data>
+    </node>
+    <node id="Sankt Augustin">
+      <data key="d0">56369.0</data>
+      <data key="d1">50.77</data>
+      <data key="d2">7.1867</data>
+    </node>
+    <node id="Hilden">
+      <data key="d0">55815.0</data>
+      <data key="d1">51.1714</data>
+      <data key="d2">6.9394</data>
+    </node>
+    <node id="Elmshorn">
+      <data key="d0">50772.0</data>
+      <data key="d1">53.7519</data>
+      <data key="d2">9.6511</data>
+    </node>
+    <node id="Halle-Neustadt">
+      <data key="d0">46280.0</data>
+      <data key="d1">51.4789</data>
+      <data key="d2">11.9214</data>
+    </node>
+    <node id="Fellbach">
+      <data key="d0">45896.0</data>
+      <data key="d1">48.8086</data>
+      <data key="d2">9.2758</data>
+    </node>
+    <node id="Pinneberg">
+      <data key="d0">44279.0</data>
+      <data key="d1">53.6333</data>
+      <data key="d2">9.8</data>
+    </node>
+    <node id="Siegburg">
+      <data key="d0">42049.0</data>
+      <data key="d1">50.8014</data>
+      <data key="d2">7.2044</data>
+    </node>
+    <node id="Germering">
+      <data key="d0">41355.0</data>
+      <data key="d1">48.1333</data>
+      <data key="d2">11.3667</data>
+    </node>
+    <node id="Ostfildern">
+      <data key="d0">39806.0</data>
+      <data key="d1">48.7333</data>
+      <data key="d2">9.25</data>
+    </node>
+    <node id="Kornwestheim">
+      <data key="d0">34130.0</data>
+      <data key="d1">48.8598</data>
+      <data key="d2">9.1852</data>
+    </node>
+    <node id="Unterschleißheim">
+      <data key="d0">29523.0</data>
+      <data key="d1">48.2833</data>
+      <data key="d2">11.5667</data>
+    </node>
+    <node id="Hattersheim">
+      <data key="d0">28528.0</data>
+      <data key="d1">50.0722</data>
+      <data key="d2">8.4864</data>
+    </node>
+    <node id="Unterhaching">
+      <data key="d0">25873.0</data>
+      <data key="d1">48.0658</data>
+      <data key="d2">11.61</data>
+    </node>
+    <node id="Obertshausen">
+      <data key="d0">25307.0</data>
+      <data key="d1">50.0667</data>
+      <data key="d2">8.8333</data>
+    </node>
+    <node id="Weingarten">
+      <data key="d0">25257.0</data>
+      <data key="d1">47.8092</data>
+      <data key="d2">9.6444</data>
+    </node>
+    <node id="Bad Soden am Taunus">
+      <data key="d0">23162.0</data>
+      <data key="d1">50.1333</data>
+      <data key="d2">8.5</data>
+    </node>
+    <node id="Haar">
+      <data key="d0">22555.0</data>
+      <data key="d1">48.1</data>
+      <data key="d2">11.7333</data>
+    </node>
+    <node id="Ottobrunn">
+      <data key="d0">22430.0</data>
+      <data key="d1">48.0667</data>
+      <data key="d2">11.6667</data>
+    </node>
+    <node id="Eschborn">
+      <data key="d0">22070.0</data>
+      <data key="d1">50.1436</data>
+      <data key="d2">8.57</data>
+    </node>
+    <node id="Puchheim">
+      <data key="d0">21420.0</data>
+      <data key="d1">48.15</data>
+      <data key="d2">11.35</data>
+    </node>
+    <node id="Gröbenzell">
+      <data key="d0">19717.0</data>
+      <data key="d1">48.2</data>
+      <data key="d2">11.3667</data>
+    </node>
+    <node id="Schenefeld">
+      <data key="d0">19707.0</data>
+      <data key="d1">53.6028</data>
+      <data key="d2">9.8233</data>
+    </node>
+    <node id="Wolfratshausen">
+      <data key="d0">19335.0</data>
+      <data key="d1">47.9133</data>
+      <data key="d2">11.4278</data>
+    </node>
+    <node id="Glinde">
+      <data key="d0">18547.0</data>
+      <data key="d1">53.5406</data>
+      <data key="d2">10.2111</data>
+    </node>
+    <node id="Eilendorf">
+      <data key="d0">15892.0</data>
+      <data key="d1">50.7794</data>
+      <data key="d2">6.1625</data>
+    </node>
+    <node id="Eppelheim">
+      <data key="d0">15555.0</data>
+      <data key="d1">49.4</data>
+      <data key="d2">8.6333</data>
+    </node>
+    <node id="Neubiberg">
+      <data key="d0">14449.0</data>
+      <data key="d1">48.0833</data>
+      <data key="d2">11.6833</data>
+    </node>
+    <node id="Asperg">
+      <data key="d0">13559.0</data>
+      <data key="d1">48.9</data>
+      <data key="d2">9.1333</data>
+    </node>
+    <node id="Wentorf bei Hamburg">
+      <data key="d0">13539.0</data>
+      <data key="d1">53.4931</data>
+      <data key="d2">10.2533</data>
+    </node>
+    <node id="Kronshagen">
+      <data key="d0">11908.0</data>
+      <data key="d1">54.3333</data>
+      <data key="d2">10.0833</data>
+    </node>
+    <node id="Eichenau">
+      <data key="d0">11867.0</data>
+      <data key="d1">48.1667</data>
+      <data key="d2">11.3167</data>
+    </node>
+    <node id="Kriftel">
+      <data key="d0">11151.0</data>
+      <data key="d1">50.0833</data>
+      <data key="d2">8.45</data>
+    </node>
+    <node id="Steinbach am Taunus">
+      <data key="d0">10846.0</data>
+      <data key="d1">50.1667</data>
+      <data key="d2">8.5667</data>
+    </node>
+    <node id="Weißenthurm">
+      <data key="d0">9259.0</data>
+      <data key="d1">50.4144</data>
+      <data key="d2">7.4606</data>
+    </node>
+    <node id="Neulußheim">
+      <data key="d0">7128.0</data>
+      <data key="d1">49.2933</data>
+      <data key="d2">8.5219</data>
+    </node>
+    <node id="Eichwalde">
+      <data key="d0">6475.0</data>
+      <data key="d1">52.3667</data>
+      <data key="d2">13.6167</data>
+    </node>
+    <node id="Altbach">
+      <data key="d0">6422.0</data>
+      <data key="d1">48.7239</data>
+      <data key="d2">9.3797</data>
+    </node>
+    <node id="Merzhausen">
+      <data key="d0">5347.0</data>
+      <data key="d1">47.9664</data>
+      <data key="d2">7.8286</data>
+    </node>
+    <node id="Buckenhof">
+      <data key="d0">3157.0</data>
+      <data key="d1">49.5939</data>
+      <data key="d2">11.05</data>
+    </node>
+    <edge source="Berlin" target="Schenefeld" />
+    <edge source="Berlin" target="Regensburg" />
+    <edge source="Berlin" target="Gelsenkirchen" />
+    <edge source="Berlin" target="Mainz" />
+    <edge source="Stuttgart" target="Augsburg">
+      <data key="d3">134.6583127213911</data>
+      <data key="d4">0.007426203253185017</data>
+    </edge>
+    <edge source="Stuttgart" target="Pforzheim">
+      <data key="d3">37.23814084262893</data>
+      <data key="d4">0.026854187061219628</data>
+    </edge>
+    <edge source="Stuttgart" target="Kaiserslautern">
+      <data key="d3">126.95876867829287</data>
+      <data key="d4">0.007876572925293169</data>
+    </edge>
+    <edge source="Stuttgart" target="Asperg">
+      <data key="d3">14.047529174882238</data>
+      <data key="d4">0.07118689611181271</data>
+    </edge>
+    <edge source="Stuttgart" target="Recklinghausen" />
+    <edge source="Stuttgart" target="Puchheim" />
+    <edge source="Stuttgart" target="Gütersloh" />
+    <edge source="Stuttgart" target="Hagen" />
+    <edge source="Stuttgart" target="Essen" />
+    <edge source="Stuttgart" target="Ludwigshafen" />
+    <edge source="Stuttgart" target="Neulußheim" />
+    <edge source="Stuttgart" target="Duisburg" />
+    <edge source="Stuttgart" target="Koblenz" />
+    <edge source="Stuttgart" target="Remscheid" />
+    <edge source="Stuttgart" target="Bochum" />
+    <edge source="Stuttgart" target="Eichwalde" />
+    <edge source="Stuttgart" target="Kassel" />
+    <edge source="Stuttgart" target="Gröbenzell" />
+    <edge source="Stuttgart" target="Mülheim" />
+    <edge source="Stuttgart" target="Bremerhaven" />
+    <edge source="Stuttgart" target="Hamm" />
+    <edge source="Stuttgart" target="Solingen" />
+    <edge source="Stuttgart" target="Bottrop" />
+    <edge source="Stuttgart" target="Neubiberg" />
+    <edge source="Stuttgart" target="Würzburg" />
+    <edge source="Munich" target="Augsburg">
+      <data key="d3">56.48861752607091</data>
+      <data key="d4">0.017702681421411577</data>
+    </edge>
+    <edge source="Munich" target="Germering">
+      <data key="d3">15.510769998015554</data>
+      <data key="d4">0.06447133186346905</data>
+    </edge>
+    <edge source="Munich" target="Weingarten">
+      <data key="d3">148.6916270472457</data>
+      <data key="d4">0.006725328250542696</data>
+    </edge>
+    <edge source="Munich" target="Ottobrunn">
+      <data key="d3">10.42203232080269</data>
+      <data key="d4">0.09595057559013416</data>
+    </edge>
+    <edge source="Munich" target="Mönchengladbach" />
+    <edge source="Munich" target="Heilbronn" />
+    <edge source="Munich" target="Bielefeld" />
+    <edge source="Munich" target="Paderborn" />
+    <edge source="Munich" target="Steinbach am Taunus" />
+    <edge source="Munich" target="Düsseldorf" />
+    <edge source="Munich" target="Siegburg" />
+    <edge source="Munich" target="Hanau" />
+    <edge source="Munich" target="Eschborn" />
+    <edge source="Munich" target="Darmstadt" />
+    <edge source="Munich" target="Wolfsburg" />
+    <edge source="Munich" target="Cologne" />
+    <edge source="Hamburg" target="Schwerin">
+      <data key="d3">94.26343153789473</data>
+      <data key="d4">0.01060856775193879</data>
+    </edge>
+    <edge source="Hamburg" target="Wentorf bei Hamburg">
+      <data key="d3">17.954128741734724</data>
+      <data key="d4">0.05569749523269711</data>
+    </edge>
+    <edge source="Hamburg" target="Kornwestheim" />
+    <edge source="Hamburg" target="Frankfurt" />
+    <edge source="Hamburg" target="Gelsenkirchen" />
+    <edge source="Hamburg" target="Germering" />
+    <edge source="Hamburg" target="Siegburg" />
+    <edge source="Hamburg" target="Pforzheim" />
+    <edge source="Hamburg" target="Cologne" />
+    <edge source="Hamburg" target="Kaiserslautern" />
+    <edge source="Hamburg" target="Heidelberg" />
+    <edge source="Hamburg" target="Weißenthurm" />
+    <edge source="Hamburg" target="Hilden" />
+    <edge source="Hamburg" target="Mönchengladbach" />
+    <edge source="Hamburg" target="Bad Soden am Taunus" />
+    <edge source="Hamburg" target="Recklinghausen" />
+    <edge source="Cologne" target="Dortmund">
+      <data key="d3">73.54973165595858</data>
+      <data key="d4">0.013596242671253658</data>
+    </edge>
+    <edge source="Cologne" target="Bochum">
+      <data key="d3">63.40989988138995</data>
+      <data key="d4">0.01577040812034917</data>
+    </edge>
+    <edge source="Cologne" target="Münster">
+      <data key="d3">123.36878302105934</data>
+      <data key="d4">0.008105778265068057</data>
+    </edge>
+    <edge source="Cologne" target="Wiesbaden">
+      <data key="d3">131.75200407881724</data>
+      <data key="d4">0.007590017373866859</data>
+    </edge>
+    <edge source="Cologne" target="Aachen">
+      <data key="d3">63.764596165779736</data>
+      <data key="d4">0.015682683810936852</data>
+    </edge>
+    <edge source="Cologne" target="Hamm">
+      <data key="d3">101.14886593371422</data>
+      <data key="d4">0.00988641830799496</data>
+    </edge>
+    <edge source="Cologne" target="Leverkusen">
+      <data key="d3">10.990626667889915</data>
+      <data key="d4">0.09098662253004992</data>
+    </edge>
+    <edge source="Cologne" target="Solingen">
+      <data key="d3">27.205774067251387</data>
+      <data key="d4">0.036756903057712946</data>
+    </edge>
+    <edge source="Cologne" target="Neuss">
+      <data key="d3">34.26326768315052</data>
+      <data key="d4">0.029185774376440026</data>
+    </edge>
+    <edge source="Cologne" target="Remscheid">
+      <data key="d3">32.47779286638178</data>
+      <data key="d4">0.03079026965022349</data>
+    </edge>
+    <edge source="Cologne" target="Sankt Augustin">
+      <data key="d3">24.77818738848916</data>
+      <data key="d4">0.04035807722015031</data>
+    </edge>
+    <edge source="Cologne" target="Hilden">
+      <data key="d3">26.16046503586991</data>
+      <data key="d4">0.03822562017260972</data>
+    </edge>
+    <edge source="Cologne" target="Hattersheim">
+      <data key="d3">145.17875899777547</data>
+      <data key="d4">0.006888059981386965</data>
+    </edge>
+    <edge source="Cologne" target="Bad Soden am Taunus">
+      <data key="d3">141.46323363064275</data>
+      <data key="d4">0.007068974562047529</data>
+    </edge>
+    <edge source="Cologne" target="Eilendorf">
+      <data key="d3">58.32271623846409</data>
+      <data key="d4">0.017145977836685453</data>
+    </edge>
+    <edge source="Cologne" target="Nuremberg" />
+    <edge source="Cologne" target="Göttingen" />
+    <edge source="Cologne" target="Neubiberg" />
+    <edge source="Cologne" target="Düsseldorf" />
+    <edge source="Cologne" target="Karlsruhe" />
+    <edge source="Cologne" target="Mannheim" />
+    <edge source="Cologne" target="Paderborn" />
+    <edge source="Cologne" target="Pinneberg" />
+    <edge source="Cologne" target="Gelsenkirchen" />
+    <edge source="Cologne" target="Leipzig" />
+    <edge source="Cologne" target="Bielefeld" />
+    <edge source="Cologne" target="Koblenz" />
+    <edge source="Cologne" target="Esslingen" />
+    <edge source="Cologne" target="Ulm" />
+    <edge source="Cologne" target="Germering" />
+    <edge source="Cologne" target="Puchheim" />
+    <edge source="Cologne" target="Mönchengladbach" />
+    <edge source="Cologne" target="Altbach" />
+    <edge source="Cologne" target="Haar" />
+    <edge source="Cologne" target="Wuppertal" />
+    <edge source="Cologne" target="Frankfurt" />
+    <edge source="Cologne" target="Osnabrück" />
+    <edge source="Cologne" target="Kriftel" />
+    <edge source="Cologne" target="Kassel" />
+    <edge source="Cologne" target="Herten" />
+    <edge source="Cologne" target="Eppelheim" />
+    <edge source="Frankfurt" target="Wiesbaden">
+      <data key="d3">31.794282786574538</data>
+      <data key="d4">0.03145219556335645</data>
+    </edge>
+    <edge source="Frankfurt" target="Bergisch Gladbach">
+      <data key="d3">147.32366710636074</data>
+      <data key="d4">0.006787775648280918</data>
+    </edge>
+    <edge source="Frankfurt" target="Siegburg">
+      <data key="d3">130.0674343556475</data>
+      <data key="d4">0.007688319562494547</data>
+    </edge>
+    <edge source="Frankfurt" target="Eppelheim">
+      <data key="d3">79.11452205864138</data>
+      <data key="d4">0.01263990445722188</data>
+    </edge>
+    <edge source="Frankfurt" target="Kriftel">
+      <data key="d3">16.88946666688189</data>
+      <data key="d4">0.059208500761061544</data>
+    </edge>
+    <edge source="Frankfurt" target="Steinbach am Taunus">
+      <data key="d3">10.349743468722519</data>
+      <data key="d4">0.09662075229420457</data>
+    </edge>
+    <edge source="Frankfurt" target="Neulußheim">
+      <data key="d3">91.63530568329425</data>
+      <data key="d4">0.01091282440259603</data>
+    </edge>
+    <edge source="Frankfurt" target="Recklinghausen" />
+    <edge source="Frankfurt" target="Leverkusen" />
+    <edge source="Frankfurt" target="Bremen" />
+    <edge source="Frankfurt" target="Dortmund" />
+    <edge source="Frankfurt" target="Sankt Augustin" />
+    <edge source="Frankfurt" target="Gelsenkirchen" />
+    <edge source="Frankfurt" target="Hattersheim" />
+    <edge source="Frankfurt" target="Duisburg" />
+    <edge source="Frankfurt" target="Hamm" />
+    <edge source="Frankfurt" target="Fürth" />
+    <edge source="Frankfurt" target="Koblenz" />
+    <edge source="Frankfurt" target="Puchheim" />
+    <edge source="Frankfurt" target="Herne" />
+    <edge source="Frankfurt" target="Buckenhof" />
+    <edge source="Frankfurt" target="Hagen" />
+    <edge source="Frankfurt" target="Magdeburg" />
+    <edge source="Frankfurt" target="Chemnitz" />
+    <edge source="Frankfurt" target="Trier" />
+    <edge source="Frankfurt" target="Weißenthurm" />
+    <edge source="Frankfurt" target="Braunschweig" />
+    <edge source="Frankfurt" target="Reutlingen" />
+    <edge source="Frankfurt" target="Münster" />
+    <edge source="Düsseldorf" target="Bonn">
+      <data key="d3">59.90498932822748</data>
+      <data key="d4">0.016693100378014688</data>
+    </edge>
+    <edge source="Düsseldorf" target="Gelsenkirchen">
+      <data key="d3">38.476078481297805</data>
+      <data key="d4">0.02599017466101888</data>
+    </edge>
+    <edge source="Düsseldorf" target="Aachen">
+      <data key="d3">70.74348198306036</data>
+      <data key="d4">0.014135577893090582</data>
+    </edge>
+    <edge source="Düsseldorf" target="Mülheim">
+      <data key="d3">22.68496018317321</data>
+      <data key="d4">0.044082069879133386</data>
+    </edge>
+    <edge source="Düsseldorf" target="Neuss">
+      <data key="d3">6.899237395169554</data>
+      <data key="d4">0.14494355574721085</data>
+    </edge>
+    <edge source="Düsseldorf" target="Bottrop">
+      <data key="d3">33.84346835520929</data>
+      <data key="d4">0.029547798987513554</data>
+    </edge>
+    <edge source="Düsseldorf" target="Bergisch Gladbach">
+      <data key="d3">36.22567946138571</data>
+      <data key="d4">0.027604727223016948</data>
+    </edge>
+    <edge source="Düsseldorf" target="Remscheid">
+      <data key="d3">29.64669157290238</data>
+      <data key="d4">0.03373057656504304</data>
+    </edge>
+    <edge source="Düsseldorf" target="Recklinghausen">
+      <data key="d3">47.169583053422436</data>
+      <data key="d4">0.021200102592966296</data>
+    </edge>
+    <edge source="Düsseldorf" target="Gladbeck">
+      <data key="d3">39.22713220079026</data>
+      <data key="d4">0.02549255945811543</data>
+    </edge>
+    <edge source="Düsseldorf" target="Herten">
+      <data key="d3">47.51089913219915</data>
+      <data key="d4">0.021047802046799798</data>
+    </edge>
+    <edge source="Düsseldorf" target="Heilbronn" />
+    <edge source="Düsseldorf" target="Hildesheim" />
+    <edge source="Düsseldorf" target="Hanau" />
+    <edge source="Düsseldorf" target="Essen" />
+    <edge source="Düsseldorf" target="Osnabrück" />
+    <edge source="Düsseldorf" target="Merzhausen" />
+    <edge source="Düsseldorf" target="Mainz" />
+    <edge source="Düsseldorf" target="Halle-Neustadt" />
+    <edge source="Düsseldorf" target="Mannheim" />
+    <edge source="Düsseldorf" target="Siegburg" />
+    <edge source="Düsseldorf" target="Weingarten" />
+    <edge source="Düsseldorf" target="Krefeld" />
+    <edge source="Düsseldorf" target="Bochum" />
+    <edge source="Düsseldorf" target="Obertshausen" />
+    <edge source="Düsseldorf" target="Eilendorf" />
+    <edge source="Düsseldorf" target="Moers" />
+    <edge source="Düsseldorf" target="Sankt Augustin" />
+    <edge source="Düsseldorf" target="Rosenheim" />
+    <edge source="Düsseldorf" target="Glinde" />
+    <edge source="Düsseldorf" target="Hagen" />
+    <edge source="Düsseldorf" target="Steinbach am Taunus" />
+    <edge source="Düsseldorf" target="Neubiberg" />
+    <edge source="Düsseldorf" target="Lübeck" />
+    <edge source="Düsseldorf" target="Potsdam" />
+    <edge source="Düsseldorf" target="Ulm" />
+    <edge source="Leipzig" target="Halle-Neustadt">
+      <data key="d3">35.14079046523865</data>
+      <data key="d4">0.028456958046780487</data>
+    </edge>
+    <edge source="Leipzig" target="Bottrop" />
+    <edge source="Leipzig" target="Duisburg" />
+    <edge source="Leipzig" target="Leverkusen" />
+    <edge source="Leipzig" target="Asperg" />
+    <edge source="Leipzig" target="Mönchengladbach" />
+    <edge source="Leipzig" target="Sankt Augustin" />
+    <edge source="Leipzig" target="Neubiberg" />
+    <edge source="Dortmund" target="Duisburg">
+      <data key="d3">49.61870301489971</data>
+      <data key="d4">0.02015369083105046</data>
+    </edge>
+    <edge source="Dortmund" target="Bochum">
+      <data key="d3">17.688200146969347</data>
+      <data key="d4">0.056534864581535026</data>
+    </edge>
+    <edge source="Dortmund" target="Oberhausen">
+      <data key="d3">41.33569041316332</data>
+      <data key="d4">0.02419216880145664</data>
+    </edge>
+    <edge source="Dortmund" target="Hagen">
+      <data key="d3">16.424739042870417</data>
+      <data key="d4">0.060883767918009986</data>
+    </edge>
+    <edge source="Dortmund" target="Mülheim">
+      <data key="d3">41.62100810052311</data>
+      <data key="d4">0.024026328184670556</data>
+    </edge>
+    <edge source="Dortmund" target="Osnabrück">
+      <data key="d3">94.59550107702573</data>
+      <data key="d4">0.01057132726836275</data>
+    </edge>
+    <edge source="Dortmund" target="Leverkusen">
+      <data key="d3">63.168075414538876</data>
+      <data key="d4">0.015830781505333597</data>
+    </edge>
+    <edge source="Dortmund" target="Paderborn">
+      <data key="d3">92.11864678462919</data>
+      <data key="d4">0.010855565457208375</data>
+    </edge>
+    <edge source="Dortmund" target="Neuss">
+      <data key="d3">63.72911845696599</data>
+      <data key="d4">0.015691414289297982</data>
+    </edge>
+    <edge source="Dortmund" target="Remscheid">
+      <data key="d3">41.16392922874692</data>
+      <data key="d4">0.024293113381937497</data>
+    </edge>
+    <edge source="Dortmund" target="Herten">
+      <data key="d3">24.93866974705949</data>
+      <data key="d4">0.04009836972631268</data>
+    </edge>
+    <edge source="Dortmund" target="Eilendorf">
+      <data key="d3">122.42284315530465</data>
+      <data key="d4">0.008168410193932581</data>
+    </edge>
+    <edge source="Dortmund" target="Weißenthurm">
+      <data key="d3">122.31716365889224</data>
+      <data key="d4">0.008175467531185691</data>
+    </edge>
+    <edge source="Dortmund" target="Nuremberg" />
+    <edge source="Dortmund" target="Weingarten" />
+    <edge source="Dortmund" target="Hanau" />
+    <edge source="Dortmund" target="Krefeld" />
+    <edge source="Dortmund" target="Freiburg im Breisgau" />
+    <edge source="Dortmund" target="Steinbach am Taunus" />
+    <edge source="Dortmund" target="Altbach" />
+    <edge source="Dortmund" target="Esslingen" />
+    <edge source="Dortmund" target="Sankt Augustin" />
+    <edge source="Dortmund" target="Potsdam" />
+    <edge source="Dortmund" target="Eppelheim" />
+    <edge source="Dortmund" target="Gladbeck" />
+    <edge source="Dortmund" target="Hilden" />
+    <edge source="Dortmund" target="Neulußheim" />
+    <edge source="Dortmund" target="Hamm" />
+    <edge source="Dortmund" target="Göttingen" />
+    <edge source="Dortmund" target="Bielefeld" />
+    <edge source="Dortmund" target="Koblenz" />
+    <edge source="Dortmund" target="Würzburg" />
+    <edge source="Dortmund" target="Bad Soden am Taunus" />
+    <edge source="Dortmund" target="Haar" />
+    <edge source="Dortmund" target="Darmstadt" />
+    <edge source="Dortmund" target="Wiesbaden" />
+    <edge source="Dortmund" target="Eschborn" />
+    <edge source="Essen" target="Duisburg">
+      <data key="d3">17.51541051380205</data>
+      <data key="d4">0.05709258137067386</data>
+    </edge>
+    <edge source="Essen" target="Wuppertal">
+      <data key="d3">23.665628867585657</data>
+      <data key="d4">0.042255374053029295</data>
+    </edge>
+    <edge source="Essen" target="Mönchengladbach">
+      <data key="d3">49.11137290607222</data>
+      <data key="d4">0.020361882407819193</data>
+    </edge>
+    <edge source="Essen" target="Leverkusen">
+      <data key="d3">46.49468069785713</data>
+      <data key="d4">0.02150783670283574</data>
+    </edge>
+    <edge source="Essen" target="Bottrop">
+      <data key="d3">10.341189050028568</data>
+      <data key="d4">0.09670067872874227</data>
+    </edge>
+    <edge source="Essen" target="Koblenz">
+      <data key="d3">128.15841211691392</data>
+      <data key="d4">0.007802843242843388</data>
+    </edge>
+    <edge source="Essen" target="Bergisch Gladbach">
+      <data key="d3">51.71716369184934</data>
+      <data key="d4">0.019335940500495787</data>
+    </edge>
+    <edge source="Essen" target="Remscheid">
+      <data key="d3">32.48810747304919</data>
+      <data key="d4">0.03078049408786151</data>
+    </edge>
+    <edge source="Essen" target="Gütersloh">
+      <data key="d3">107.14894035715278</data>
+      <data key="d4">0.009332803447862043</data>
+    </edge>
+    <edge source="Essen" target="Hilden">
+      <data key="d3">31.50634523036675</data>
+      <data key="d4">0.031739638243923333</data>
+    </edge>
+    <edge source="Essen" target="Eilendorf">
+      <data key="d3">95.53286506087044</data>
+      <data key="d4">0.01046760190184637</data>
+    </edge>
+    <edge source="Essen" target="Augsburg" />
+    <edge source="Essen" target="Hanau" />
+    <edge source="Essen" target="Asperg" />
+    <edge source="Essen" target="Neulußheim" />
+    <edge source="Essen" target="Solingen" />
+    <edge source="Essen" target="Schwerin" />
+    <edge source="Essen" target="Bad Soden am Taunus" />
+    <edge source="Essen" target="Mainz" />
+    <edge source="Essen" target="Krefeld" />
+    <edge source="Essen" target="Heidelberg" />
+    <edge source="Essen" target="Oberhausen" />
+    <edge source="Essen" target="Esslingen" />
+    <edge source="Essen" target="Weißenthurm" />
+    <edge source="Essen" target="Bochum" />
+    <edge source="Essen" target="Germering" />
+    <edge source="Essen" target="Ulm" />
+    <edge source="Essen" target="Münster" />
+    <edge source="Essen" target="Recklinghausen" />
+    <edge source="Essen" target="Siegburg" />
+    <edge source="Essen" target="Aachen" />
+    <edge source="Essen" target="Eppelheim" />
+    <edge source="Essen" target="Braunschweig" />
+    <edge source="Essen" target="Regensburg" />
+    <edge source="Essen" target="Bonn" />
+    <edge source="Essen" target="Gladbeck" />
+    <edge source="Bremen" target="Hannover">
+      <data key="d3">100.01456828198349</data>
+      <data key="d4">0.009998543384005578</data>
+    </edge>
+    <edge source="Bremen" target="Bremerhaven">
+      <data key="d3">54.84399923236391</data>
+      <data key="d4">0.01823353537299832</data>
+    </edge>
+    <edge source="Bremen" target="Gütersloh">
+      <data key="d3">133.9694891357996</data>
+      <data key="d4">0.007464386155763716</data>
+    </edge>
+    <edge source="Bremen" target="Pinneberg">
+      <data key="d3">90.66126085943391</data>
+      <data key="d4">0.01103006940914327</data>
+    </edge>
+    <edge source="Bremen" target="Wuppertal" />
+    <edge source="Bremen" target="Bonn" />
+    <edge source="Bremen" target="Eschborn" />
+    <edge source="Bremen" target="Obertshausen" />
+    <edge source="Bremen" target="Mainz" />
+    <edge source="Bremen" target="Schenefeld" />
+    <edge source="Bremen" target="Weißenthurm" />
+    <edge source="Bremen" target="Augsburg" />
+    <edge source="Bremen" target="Gelsenkirchen" />
+    <edge source="Bremen" target="Salzgitter" />
+    <edge source="Bremen" target="Germering" />
+    <edge source="Dresden" target="Chemnitz">
+      <data key="d3">62.686528757138575</data>
+      <data key="d4">0.015952390726151393</data>
+    </edge>
+    <edge source="Dresden" target="Halle">
+      <data key="d3">132.60424833403002</data>
+      <data key="d4">0.007541236518161926</data>
+    </edge>
+    <edge source="Dresden" target="Bottrop" />
+    <edge source="Dresden" target="Oldenburg" />
+    <edge source="Dresden" target="Remscheid" />
+    <edge source="Hannover" target="Münster">
+      <data key="d3">149.98089734127328</data>
+      <data key="d4">0.006667515781856905</data>
+    </edge>
+    <edge source="Hannover" target="Pinneberg">
+      <data key="d3">141.06604616744295</data>
+      <data key="d4">0.007088878062216456</data>
+    </edge>
+    <edge source="Hannover" target="Bottrop" />
+    <edge source="Hannover" target="Paderborn" />
+    <edge source="Hannover" target="Sankt Augustin" />
+    <edge source="Hannover" target="Mainz" />
+    <edge source="Hannover" target="Leverkusen" />
+    <edge source="Hannover" target="Gladbeck" />
+    <edge source="Hannover" target="Siegburg" />
+    <edge source="Hannover" target="Steinbach am Taunus" />
+    <edge source="Hannover" target="Augsburg" />
+    <edge source="Hannover" target="Ludwigshafen" />
+    <edge source="Hannover" target="Eschborn" />
+    <edge source="Hannover" target="Hamm" />
+    <edge source="Hannover" target="Reutlingen" />
+    <edge source="Hannover" target="Duisburg" />
+    <edge source="Hannover" target="Braunschweig" />
+    <edge source="Hannover" target="Gelsenkirchen" />
+    <edge source="Nuremberg" target="Ulm">
+      <data key="d3">142.0017347130634</data>
+      <data key="d4">0.007042167491972232</data>
+    </edge>
+    <edge source="Nuremberg" target="Würzburg">
+      <data key="d3">90.43349451361308</data>
+      <data key="d4">0.011057849808617851</data>
+    </edge>
+    <edge source="Nuremberg" target="Erlangen">
+      <data key="d3">15.050141045333453</data>
+      <data key="d4">0.06644456002025753</data>
+    </edge>
+    <edge source="Nuremberg" target="Gröbenzell">
+      <data key="d3">141.04891370602536</data>
+      <data key="d4">0.007089739110534403</data>
+    </edge>
+    <edge source="Nuremberg" target="Duisburg" />
+    <edge source="Nuremberg" target="Gelsenkirchen" />
+    <edge source="Nuremberg" target="Hilden" />
+    <edge source="Nuremberg" target="Bottrop" />
+    <edge source="Nuremberg" target="Haar" />
+    <edge source="Nuremberg" target="Herne" />
+    <edge source="Nuremberg" target="Wiesbaden" />
+    <edge source="Nuremberg" target="Hattersheim" />
+    <edge source="Nuremberg" target="Hagen" />
+    <edge source="Nuremberg" target="Weingarten" />
+    <edge source="Duisburg" target="Münster">
+      <data key="d3">83.72098757779186</data>
+      <data key="d4">0.011944436263019713</data>
+    </edge>
+    <edge source="Duisburg" target="Osnabrück">
+      <data key="d3">129.54424187216745</data>
+      <data key="d4">0.007719370506539278</data>
+    </edge>
+    <edge source="Duisburg" target="Leverkusen">
+      <data key="d3">47.24461179514456</data>
+      <data key="d4">0.02116643490131868</data>
+    </edge>
+    <edge source="Duisburg" target="Paderborn">
+      <data key="d3">141.6228529602356</data>
+      <data key="d4">0.0070610073098921165</data>
+    </edge>
+    <edge source="Duisburg" target="Neuss">
+      <data key="d3">26.472464398571855</data>
+      <data key="d4">0.03777510038143439</data>
+    </edge>
+    <edge source="Duisburg" target="Gladbeck">
+      <data key="d3">20.414167980488248</data>
+      <data key="d4">0.0489855869196234</data>
+    </edge>
+    <edge source="Duisburg" target="Sankt Augustin">
+      <data key="d3">79.69362255423935</data>
+      <data key="d4">0.012548055514974257</data>
+    </edge>
+    <edge source="Duisburg" target="Hilden">
+      <data key="d3">31.785042573037554</data>
+      <data key="d4">0.03146133901510878</data>
+    </edge>
+    <edge source="Duisburg" target="Bad Soden am Taunus" />
+    <edge source="Duisburg" target="Mönchengladbach" />
+    <edge source="Duisburg" target="Ludwigsburg" />
+    <edge source="Duisburg" target="Gröbenzell" />
+    <edge source="Duisburg" target="Schenefeld" />
+    <edge source="Duisburg" target="Göttingen" />
+    <edge source="Duisburg" target="Siegburg" />
+    <edge source="Duisburg" target="Trier" />
+    <edge source="Duisburg" target="Kaiserslautern" />
+    <edge source="Duisburg" target="Altbach" />
+    <edge source="Duisburg" target="Moers" />
+    <edge source="Duisburg" target="Bochum" />
+    <edge source="Duisburg" target="Wiesbaden" />
+    <edge source="Duisburg" target="Hamm" />
+    <edge source="Duisburg" target="Neulußheim" />
+    <edge source="Duisburg" target="Weißenthurm" />
+    <edge source="Duisburg" target="Glinde" />
+    <edge source="Duisburg" target="Rostock" />
+    <edge source="Duisburg" target="Fellbach" />
+    <edge source="Duisburg" target="Hattersheim" />
+    <edge source="Duisburg" target="Reutlingen" />
+    <edge source="Duisburg" target="Ulm" />
+    <edge source="Duisburg" target="Kriftel" />
+    <edge source="Bochum" target="Mönchengladbach">
+      <data key="d3">62.90196210207825</data>
+      <data key="d4">0.01589775527792257</data>
+    </edge>
+    <edge source="Bochum" target="Hagen">
+      <data key="d3">22.593238815290174</data>
+      <data key="d4">0.044261029070486395</data>
+    </edge>
+    <edge source="Bochum" target="Mülheim">
+      <data key="d3">23.944966506208065</data>
+      <data key="d4">0.04176243051919643</data>
+    </edge>
+    <edge source="Bochum" target="Solingen">
+      <data key="d3">36.2633364379428</data>
+      <data key="d4">0.027576061615601565</data>
+    </edge>
+    <edge source="Bochum" target="Herten">
+      <data key="d3">14.33216503910073</data>
+      <data key="d4">0.06977312899145521</data>
+    </edge>
+    <edge source="Bochum" target="Ludwigshafen" />
+    <edge source="Bochum" target="Glinde" />
+    <edge source="Bochum" target="Puchheim" />
+    <edge source="Bochum" target="Kornwestheim" />
+    <edge source="Bochum" target="Freiburg im Breisgau" />
+    <edge source="Bochum" target="Esslingen" />
+    <edge source="Bochum" target="Mainz" />
+    <edge source="Bochum" target="Jena" />
+    <edge source="Bochum" target="Hamm" />
+    <edge source="Bochum" target="Aachen" />
+    <edge source="Bochum" target="Gröbenzell" />
+    <edge source="Bochum" target="Chemnitz" />
+    <edge source="Bochum" target="Eilendorf" />
+    <edge source="Bochum" target="Eschborn" />
+    <edge source="Bochum" target="Hanau" />
+    <edge source="Bochum" target="Recklinghausen" />
+    <edge source="Bochum" target="Pforzheim" />
+    <edge source="Bochum" target="Remscheid" />
+    <edge source="Bochum" target="Gelsenkirchen" />
+    <edge source="Bochum" target="Bottrop" />
+    <edge source="Bochum" target="Wentorf bei Hamburg" />
+    <edge source="Bochum" target="Mannheim" />
+    <edge source="Bochum" target="Gladbeck" />
+    <edge source="Bochum" target="Wiesbaden" />
+    <edge source="Bochum" target="Karlsruhe" />
+    <edge source="Bochum" target="Bergisch Gladbach" />
+    <edge source="Bochum" target="Darmstadt" />
+    <edge source="Wuppertal" target="Bielefeld">
+      <data key="d3">125.67803420120107</data>
+      <data key="d4">0.007956839923188767</data>
+    </edge>
+    <edge source="Wuppertal" target="Bonn">
+      <data key="d3">59.62723297710521</data>
+      <data key="d4">0.01677086039501389</data>
+    </edge>
+    <edge source="Wuppertal" target="Mönchengladbach">
+      <data key="d3">52.906471221250946</data>
+      <data key="d4">0.01890127950167143</data>
+    </edge>
+    <edge source="Wuppertal" target="Gelsenkirchen">
+      <data key="d3">28.411844968814272</data>
+      <data key="d4">0.0351965879406153</data>
+    </edge>
+    <edge source="Wuppertal" target="Krefeld">
+      <data key="d3">43.63768063319161</data>
+      <data key="d4">0.02291597503556094</data>
+    </edge>
+    <edge source="Wuppertal" target="Mülheim">
+      <data key="d3">27.55467708512591</data>
+      <data key="d4">0.03629147955211577</data>
+    </edge>
+    <edge source="Wuppertal" target="Herne">
+      <data key="d3">31.604407220624825</data>
+      <data key="d4">0.0316411566595499</data>
+    </edge>
+    <edge source="Wuppertal" target="Bottrop">
+      <data key="d3">33.950435457854084</data>
+      <data key="d4">0.029454703202301938</data>
+    </edge>
+    <edge source="Wuppertal" target="Koblenz">
+      <data key="d3">105.04251578235282</data>
+      <data key="d4">0.009519954777853867</data>
+    </edge>
+    <edge source="Wuppertal" target="Bergisch Gladbach">
+      <data key="d3">30.807052574402768</data>
+      <data key="d4">0.03246009976400302</data>
+    </edge>
+    <edge source="Wuppertal" target="Siegen">
+      <data key="d3">72.32372403078453</data>
+      <data key="d4">0.013826721638038867</data>
+    </edge>
+    <edge source="Wuppertal" target="Herten">
+      <data key="d3">37.24447223442614</data>
+      <data key="d4">0.02684962197089938</data>
+    </edge>
+    <edge source="Wuppertal" target="Hilden">
+      <data key="d3">20.069554549634198</data>
+      <data key="d4">0.04982671625954083</data>
+    </edge>
+    <edge source="Wuppertal" target="Ludwigsburg" />
+    <edge source="Wuppertal" target="Esslingen" />
+    <edge source="Wuppertal" target="Asperg" />
+    <edge source="Wuppertal" target="Oldenburg" />
+    <edge source="Wuppertal" target="Bad Soden am Taunus" />
+    <edge source="Wuppertal" target="Eschborn" />
+    <edge source="Wuppertal" target="Puchheim" />
+    <edge source="Wuppertal" target="Würzburg" />
+    <edge source="Wuppertal" target="Merzhausen" />
+    <edge source="Wuppertal" target="Ulm" />
+    <edge source="Wuppertal" target="Trier" />
+    <edge source="Wuppertal" target="Altbach" />
+    <edge source="Wuppertal" target="Mannheim" />
+    <edge source="Wuppertal" target="Unterschleißheim" />
+    <edge source="Wuppertal" target="Weißenthurm" />
+    <edge source="Wuppertal" target="Pforzheim" />
+    <edge source="Wuppertal" target="Siegburg" />
+    <edge source="Wuppertal" target="Gütersloh" />
+    <edge source="Wuppertal" target="Reutlingen" />
+    <edge source="Wuppertal" target="Gladbeck" />
+    <edge source="Wuppertal" target="Germering" />
+    <edge source="Wuppertal" target="Saarbrücken" />
+    <edge source="Bielefeld" target="Oldenburg">
+      <data key="d3">126.82108784743791</data>
+      <data key="d4">0.007885123972465612</data>
+    </edge>
+    <edge source="Bielefeld" target="Solingen">
+      <data key="d3">138.3875259804537</data>
+      <data key="d4">0.007226084814474126</data>
+    </edge>
+    <edge source="Bielefeld" target="Herne">
+      <data key="d3">104.97031605901046</data>
+      <data key="d4">0.00952650270613491</data>
+    </edge>
+    <edge source="Bielefeld" target="Recklinghausen">
+      <data key="d3">106.39969638038717</data>
+      <data key="d4">0.009398523059924179</data>
+    </edge>
+    <edge source="Bielefeld" target="Hilden">
+      <data key="d3">145.45004279189348</data>
+      <data key="d4">0.0068752128277526645</data>
+    </edge>
+    <edge source="Bielefeld" target="Kriftel" />
+    <edge source="Bielefeld" target="Ulm" />
+    <edge source="Bielefeld" target="Kornwestheim" />
+    <edge source="Bielefeld" target="Ludwigsburg" />
+    <edge source="Bielefeld" target="Oberhausen" />
+    <edge source="Bielefeld" target="Augsburg" />
+    <edge source="Bielefeld" target="Sankt Augustin" />
+    <edge source="Bielefeld" target="Weißenthurm" />
+    <edge source="Bielefeld" target="Hattersheim" />
+    <edge source="Bielefeld" target="Koblenz" />
+    <edge source="Bielefeld" target="Pforzheim" />
+    <edge source="Bielefeld" target="Neulußheim" />
+    <edge source="Bielefeld" target="Bonn" />
+    <edge source="Bielefeld" target="Leverkusen" />
+    <edge source="Bielefeld" target="Eppelheim" />
+    <edge source="Bielefeld" target="Freiburg im Breisgau" />
+    <edge source="Bielefeld" target="Saarbrücken" />
+    <edge source="Bielefeld" target="Aachen" />
+    <edge source="Bielefeld" target="Fellbach" />
+    <edge source="Bielefeld" target="Neuss" />
+    <edge source="Bielefeld" target="Krefeld" />
+    <edge source="Bielefeld" target="Eichenau" />
+    <edge source="Bielefeld" target="Fürth" />
+    <edge source="Bielefeld" target="Obertshausen" />
+    <edge source="Bonn" target="Gelsenkirchen">
+      <data key="d3">87.1537716295917</data>
+      <data key="d4">0.011473972741536128</data>
+    </edge>
+    <edge source="Bonn" target="Hamm">
+      <data key="d3">115.29263222750147</data>
+      <data key="d4">0.00867358113592851</data>
+    </edge>
+    <edge source="Bonn" target="Darmstadt">
+      <data key="d3">146.32712413263084</data>
+      <data key="d4">0.006834002963754009</data>
+    </edge>
+    <edge source="Bonn" target="Solingen">
+      <data key="d3">48.22886769238792</data>
+      <data key="d4">0.020734469786397917</data>
+    </edge>
+    <edge source="Bonn" target="Herne">
+      <data key="d3">91.22496719647604</data>
+      <data key="d4">0.010961911313667529</data>
+    </edge>
+    <edge source="Bonn" target="Neuss">
+      <data key="d3">59.03515352217322</data>
+      <data key="d4">0.016939059870902284</data>
+    </edge>
+    <edge source="Bonn" target="Bergisch Gladbach">
+      <data key="d3">28.83601512593116</data>
+      <data key="d4">0.03467885543938202</data>
+    </edge>
+    <edge source="Bonn" target="Recklinghausen">
+      <data key="d3">94.85163812984686</data>
+      <data key="d4">0.010542780490844587</data>
+    </edge>
+    <edge source="Bonn" target="Moers">
+      <data key="d3">87.48473812455603</data>
+      <data key="d4">0.011430565164134734</data>
+    </edge>
+    <edge source="Bonn" target="Gladbeck">
+      <data key="d3">93.18462336470961</data>
+      <data key="d4">0.010731384255170095</data>
+    </edge>
+    <edge source="Bonn" target="Hattersheim">
+      <data key="d3">122.97299267413214</data>
+      <data key="d4">0.008131866829084285</data>
+    </edge>
+    <edge source="Bonn" target="Weißenthurm">
+      <data key="d3">43.714374835112025</data>
+      <data key="d4">0.02287577035636308</data>
+    </edge>
+    <edge source="Bonn" target="Kriftel" />
+    <edge source="Bonn" target="Weingarten" />
+    <edge source="Bonn" target="Kassel" />
+    <edge source="Bonn" target="Neulußheim" />
+    <edge source="Bonn" target="Ludwigshafen" />
+    <edge source="Bonn" target="Würzburg" />
+    <edge source="Bonn" target="Esslingen" />
+    <edge source="Bonn" target="Rosenheim" />
+    <edge source="Bonn" target="Braunschweig" />
+    <edge source="Bonn" target="Kaiserslautern" />
+    <edge source="Bonn" target="Hildesheim" />
+    <edge source="Bonn" target="Heidelberg" />
+    <edge source="Bonn" target="Glinde" />
+    <edge source="Bonn" target="Hagen" />
+    <edge source="Bonn" target="Eilendorf" />
+    <edge source="Bonn" target="Karlsruhe" />
+    <edge source="Bonn" target="Asperg" />
+    <edge source="Bonn" target="Ludwigsburg" />
+    <edge source="Bonn" target="Ostfildern" />
+    <edge source="Bonn" target="Paderborn" />
+    <edge source="Bonn" target="Bad Soden am Taunus" />
+    <edge source="Bonn" target="Unterschleißheim" />
+    <edge source="Bonn" target="Krefeld" />
+    <edge source="Bonn" target="Halle" />
+    <edge source="Bonn" target="Heilbronn" />
+    <edge source="Bonn" target="Siegen" />
+    <edge source="Bonn" target="Germering" />
+    <edge source="Bonn" target="Fürth" />
+    <edge source="Bonn" target="Eschborn" />
+    <edge source="Münster" target="Hamm">
+      <data key="d3">35.452224122905385</data>
+      <data key="d4">0.02820697501328015</data>
+    </edge>
+    <edge source="Münster" target="Mülheim">
+      <data key="d3">78.63245510377088</data>
+      <data key="d4">0.012717395109694905</data>
+    </edge>
+    <edge source="Münster" target="Siegen">
+      <data key="d3">123.11060255493454</data>
+      <data key="d4">0.008122777236459214</data>
+    </edge>
+    <edge source="Münster" target="Gladbeck">
+      <data key="d3">63.31280457850221</data>
+      <data key="d4">0.015794593315797432</data>
+    </edge>
+    <edge source="Münster" target="Hilden">
+      <data key="d3">100.0532889379246</data>
+      <data key="d4">0.009994673944405999</data>
+    </edge>
+    <edge source="Münster" target="Siegburg">
+      <data key="d3">132.4646801634383</data>
+      <data key="d4">0.007549182157584758</data>
+    </edge>
+    <edge source="Münster" target="Ulm" />
+    <edge source="Münster" target="Augsburg" />
+    <edge source="Münster" target="Elmshorn" />
+    <edge source="Münster" target="Fellbach" />
+    <edge source="Münster" target="Kornwestheim" />
+    <edge source="Münster" target="Gütersloh" />
+    <edge source="Münster" target="Krefeld" />
+    <edge source="Münster" target="Ludwigshafen" />
+    <edge source="Münster" target="Flensburg" />
+    <edge source="Münster" target="Darmstadt" />
+    <edge source="Münster" target="Gelsenkirchen" />
+    <edge source="Münster" target="Eppelheim" />
+    <edge source="Münster" target="Kriftel" />
+    <edge source="Münster" target="Mannheim" />
+    <edge source="Münster" target="Hagen" />
+    <edge source="Münster" target="Eichenau" />
+    <edge source="Münster" target="Gröbenzell" />
+    <edge source="Münster" target="Bad Soden am Taunus" />
+    <edge source="Münster" target="Wiesbaden" />
+    <edge source="Münster" target="Ottobrunn" />
+    <edge source="Münster" target="Neubiberg" />
+    <edge source="Münster" target="Haar" />
+    <edge source="Münster" target="Karlsruhe" />
+    <edge source="Münster" target="Asperg" />
+    <edge source="Münster" target="Aachen" />
+    <edge source="Münster" target="Oberhausen" />
+    <edge source="Münster" target="Mönchengladbach" />
+    <edge source="Mannheim" target="Karlsruhe">
+      <data key="d3">53.41896100507113</data>
+      <data key="d4">0.01871994477588339</data>
+    </edge>
+    <edge source="Mannheim" target="Mainz">
+      <data key="d3">58.56933829609098</data>
+      <data key="d4">0.017073780054413585</data>
+    </edge>
+    <edge source="Mannheim" target="Ludwigshafen">
+      <data key="d3">2.3528696978480954</data>
+      <data key="d4">0.4250129112184101</data>
+    </edge>
+    <edge source="Mannheim" target="Reutlingen">
+      <data key="d3">124.48672805704395</data>
+      <data key="d4">0.008032984845916802</data>
+    </edge>
+    <edge source="Mannheim" target="Trier">
+      <data key="d3">135.19118816887033</data>
+      <data key="d4">0.007396931808535315</data>
+    </edge>
+    <edge source="Mannheim" target="Ludwigsburg">
+      <data key="d3">84.32510221728135</data>
+      <data key="d4">0.011858864960795301</data>
+    </edge>
+    <edge source="Mannheim" target="Eschborn">
+      <data key="d3">73.32394958714002</data>
+      <data key="d4">0.013638108771153618</data>
+    </edge>
+    <edge source="Mannheim" target="Kriftel">
+      <data key="d3">66.24459041051621</data>
+      <data key="d4">0.01509557223922773</data>
+    </edge>
+    <edge source="Mannheim" target="Steinbach am Taunus">
+      <data key="d3">75.85726629972925</data>
+      <data key="d4">0.013182652747447732</data>
+    </edge>
+    <edge source="Mannheim" target="Kassel" />
+    <edge source="Mannheim" target="Siegburg" />
+    <edge source="Mannheim" target="Koblenz" />
+    <edge source="Mannheim" target="Neubiberg" />
+    <edge source="Mannheim" target="Mülheim" />
+    <edge source="Mannheim" target="Fellbach" />
+    <edge source="Mannheim" target="Glinde" />
+    <edge source="Mannheim" target="Aachen" />
+    <edge source="Mannheim" target="Ingolstadt" />
+    <edge source="Mannheim" target="Heidelberg" />
+    <edge source="Mannheim" target="Eppelheim" />
+    <edge source="Mannheim" target="Augsburg" />
+    <edge source="Mannheim" target="Neuss" />
+    <edge source="Mannheim" target="Rosenheim" />
+    <edge source="Mannheim" target="Obertshausen" />
+    <edge source="Mannheim" target="Weißenthurm" />
+    <edge source="Mannheim" target="Pforzheim" />
+    <edge source="Mannheim" target="Herne" />
+    <edge source="Mannheim" target="Kornwestheim" />
+    <edge source="Karlsruhe" target="Freiburg im Breisgau">
+      <data key="d3">119.9790340987566</data>
+      <data key="d4">0.008334789553122127</data>
+    </edge>
+    <edge source="Karlsruhe" target="Ludwigshafen">
+      <data key="d3">52.53157300741027</data>
+      <data key="d4">0.019036170873065934</data>
+    </edge>
+    <edge source="Karlsruhe" target="Ulm">
+      <data key="d3">134.53832554633587</data>
+      <data key="d4">0.007432826266710102</data>
+    </edge>
+    <edge source="Karlsruhe" target="Reutlingen">
+      <data key="d3">83.6199675028105</data>
+      <data key="d4">0.01195886616395049</data>
+    </edge>
+    <edge source="Karlsruhe" target="Kaiserslautern">
+      <data key="d3">66.97568370734828</data>
+      <data key="d4">0.01493079196278939</data>
+    </edge>
+    <edge source="Karlsruhe" target="Eschborn">
+      <data key="d3">126.73879740444525</data>
+      <data key="d4">0.0078902437176268</data>
+    </edge>
+    <edge source="Karlsruhe" target="Kriftel">
+      <data key="d3">119.5080933325831</data>
+      <data key="d4">0.00836763412513884</data>
+    </edge>
+    <edge source="Karlsruhe" target="Altbach">
+      <data key="d3">78.29949988455999</data>
+      <data key="d4">0.012771473655315028</data>
+    </edge>
+    <edge source="Karlsruhe" target="Unterschleißheim" />
+    <edge source="Karlsruhe" target="Eilendorf" />
+    <edge source="Karlsruhe" target="Siegen" />
+    <edge source="Karlsruhe" target="Recklinghausen" />
+    <edge source="Karlsruhe" target="Pforzheim" />
+    <edge source="Karlsruhe" target="Mülheim" />
+    <edge source="Karlsruhe" target="Rosenheim" />
+    <edge source="Karlsruhe" target="Buckenhof" />
+    <edge source="Karlsruhe" target="Solingen" />
+    <edge source="Karlsruhe" target="Fellbach" />
+    <edge source="Karlsruhe" target="Gröbenzell" />
+    <edge source="Karlsruhe" target="Elmshorn" />
+    <edge source="Karlsruhe" target="Augsburg" />
+    <edge source="Karlsruhe" target="Unterhaching" />
+    <edge source="Karlsruhe" target="Moers" />
+    <edge source="Karlsruhe" target="Braunschweig" />
+    <edge source="Karlsruhe" target="Steinbach am Taunus" />
+    <edge source="Karlsruhe" target="Erlangen" />
+    <edge source="Karlsruhe" target="Magdeburg" />
+    <edge source="Karlsruhe" target="Oberhausen" />
+    <edge source="Augsburg" target="Altbach">
+      <data key="d3">118.83323139990065</data>
+      <data key="d4">0.008415154483469143</data>
+    </edge>
+    <edge source="Augsburg" target="Neuss" />
+    <edge source="Augsburg" target="Koblenz" />
+    <edge source="Augsburg" target="Kriftel" />
+    <edge source="Augsburg" target="Krefeld" />
+    <edge source="Augsburg" target="Moers" />
+    <edge source="Augsburg" target="Solingen" />
+    <edge source="Augsburg" target="Heilbronn" />
+    <edge source="Augsburg" target="Remscheid" />
+    <edge source="Augsburg" target="Osnabrück" />
+    <edge source="Augsburg" target="Saarbrücken" />
+    <edge source="Augsburg" target="Heidelberg" />
+    <edge source="Augsburg" target="Puchheim" />
+    <edge source="Augsburg" target="Regensburg" />
+    <edge source="Augsburg" target="Pforzheim" />
+    <edge source="Augsburg" target="Ludwigsburg" />
+    <edge source="Augsburg" target="Oberhausen" />
+    <edge source="Augsburg" target="Leverkusen" />
+    <edge source="Augsburg" target="Bremerhaven" />
+    <edge source="Augsburg" target="Ostfildern" />
+    <edge source="Wiesbaden" target="Mainz">
+      <data key="d3">9.55144334620093</data>
+      <data key="d4">0.10469621854562412</data>
+    </edge>
+    <edge source="Wiesbaden" target="Ludwigshafen">
+      <data key="d3">68.3533714312285</data>
+      <data key="d4">0.014629856275723243</data>
+    </edge>
+    <edge source="Wiesbaden" target="Solingen">
+      <data key="d3">145.75514566868253</data>
+      <data key="d4">0.006860821245193703</data>
+    </edge>
+    <edge source="Wiesbaden" target="Heilbronn">
+      <data key="d3">125.44991386983843</data>
+      <data key="d4">0.007971308780949487</data>
+    </edge>
+    <edge source="Wiesbaden" target="Pforzheim">
+      <data key="d3">136.30141035648978</data>
+      <data key="d4">0.0073366812374468324</data>
+    </edge>
+    <edge source="Wiesbaden" target="Remscheid">
+      <data key="d3">142.85694956248216</data>
+      <data key="d4">0.0070000094714511895</data>
+    </edge>
+    <edge source="Wiesbaden" target="Hanau">
+      <data key="d3">48.744390463764894</data>
+      <data key="d4">0.020515181141579148</data>
+    </edge>
+    <edge source="Wiesbaden" target="Hattersheim">
+      <data key="d3">17.67463657938575</data>
+      <data key="d4">0.056578249601257326</data>
+    </edge>
+    <edge source="Wiesbaden" target="Bad Soden am Taunus">
+      <data key="d3">19.43852518707455</data>
+      <data key="d4">0.05144423202769209</data>
+    </edge>
+    <edge source="Wiesbaden" target="Eschborn">
+      <data key="d3">24.562975827930824</data>
+      <data key="d4">0.040711679521456406</data>
+    </edge>
+    <edge source="Wiesbaden" target="Recklinghausen" />
+    <edge source="Wiesbaden" target="Esslingen" />
+    <edge source="Wiesbaden" target="Glinde" />
+    <edge source="Wiesbaden" target="Ottobrunn" />
+    <edge source="Wiesbaden" target="Kaiserslautern" />
+    <edge source="Wiesbaden" target="Oberhausen" />
+    <edge source="Wiesbaden" target="Hamm" />
+    <edge source="Wiesbaden" target="Hagen" />
+    <edge source="Wiesbaden" target="Eichwalde" />
+    <edge source="Wiesbaden" target="Osnabrück" />
+    <edge source="Wiesbaden" target="Mönchengladbach" />
+    <edge source="Wiesbaden" target="Gelsenkirchen" />
+    <edge source="Wiesbaden" target="Oldenburg" />
+    <edge source="Wiesbaden" target="Gütersloh" />
+    <edge source="Wiesbaden" target="Herten" />
+    <edge source="Wiesbaden" target="Fellbach" />
+    <edge source="Wiesbaden" target="Flensburg" />
+    <edge source="Wiesbaden" target="Halle" />
+    <edge source="Mönchengladbach" target="Gelsenkirchen">
+      <data key="d3">58.29269613997694</data>
+      <data key="d4">0.017154807827016998</data>
+    </edge>
+    <edge source="Mönchengladbach" target="Koblenz">
+      <data key="d3">124.43059279632809</data>
+      <data key="d4">0.008036608823658274</data>
+    </edge>
+    <edge source="Mönchengladbach" target="Würzburg" />
+    <edge source="Mönchengladbach" target="Pforzheim" />
+    <edge source="Mönchengladbach" target="Steinbach am Taunus" />
+    <edge source="Mönchengladbach" target="Neulußheim" />
+    <edge source="Mönchengladbach" target="Herten" />
+    <edge source="Mönchengladbach" target="Bad Soden am Taunus" />
+    <edge source="Mönchengladbach" target="Darmstadt" />
+    <edge source="Mönchengladbach" target="Gröbenzell" />
+    <edge source="Mönchengladbach" target="Trier" />
+    <edge source="Mönchengladbach" target="Bergisch Gladbach" />
+    <edge source="Mönchengladbach" target="Asperg" />
+    <edge source="Mönchengladbach" target="Solingen" />
+    <edge source="Mönchengladbach" target="Ingolstadt" />
+    <edge source="Mönchengladbach" target="Kornwestheim" />
+    <edge source="Mönchengladbach" target="Ludwigshafen" />
+    <edge source="Mönchengladbach" target="Krefeld" />
+    <edge source="Mönchengladbach" target="Eilendorf" />
+    <edge source="Mönchengladbach" target="Fellbach" />
+    <edge source="Mönchengladbach" target="Schenefeld" />
+    <edge source="Mönchengladbach" target="Obertshausen" />
+    <edge source="Mönchengladbach" target="Salzgitter" />
+    <edge source="Mönchengladbach" target="Remscheid" />
+    <edge source="Gelsenkirchen" target="Hamm">
+      <data key="d3">52.3966673176812</data>
+      <data key="d4">0.01908518329872005</data>
+    </edge>
+    <edge source="Gelsenkirchen" target="Neuss">
+      <data key="d3">44.91948786657962</data>
+      <data key="d4">0.02226205256324853</data>
+    </edge>
+    <edge source="Gelsenkirchen" target="Bottrop">
+      <data key="d3">12.331445203097546</data>
+      <data key="d4">0.08109349581740907</data>
+    </edge>
+    <edge source="Gelsenkirchen" target="Recklinghausen">
+      <data key="d3">8.728074297220667</data>
+      <data key="d4">0.11457281021524256</data>
+    </edge>
+    <edge source="Gelsenkirchen" target="Gladbeck">
+      <data key="d3">10.792178672818798</data>
+      <data key="d4">0.09265969646319903</data>
+    </edge>
+    <edge source="Gelsenkirchen" target="Weißenthurm">
+      <data key="d3">125.21695274042506</data>
+      <data key="d4">0.007986139081926084</data>
+    </edge>
+    <edge source="Gelsenkirchen" target="Kaiserslautern" />
+    <edge source="Gelsenkirchen" target="Bad Soden am Taunus" />
+    <edge source="Gelsenkirchen" target="Altbach" />
+    <edge source="Gelsenkirchen" target="Saarbrücken" />
+    <edge source="Gelsenkirchen" target="Eichenau" />
+    <edge source="Gelsenkirchen" target="Koblenz" />
+    <edge source="Gelsenkirchen" target="Ludwigshafen" />
+    <edge source="Gelsenkirchen" target="Weingarten" />
+    <edge source="Gelsenkirchen" target="Kornwestheim" />
+    <edge source="Gelsenkirchen" target="Ottobrunn" />
+    <edge source="Gelsenkirchen" target="Kronshagen" />
+    <edge source="Gelsenkirchen" target="Mülheim" />
+    <edge source="Gelsenkirchen" target="Hattersheim" />
+    <edge source="Gelsenkirchen" target="Oberhausen" />
+    <edge source="Gelsenkirchen" target="Ludwigsburg" />
+    <edge source="Gelsenkirchen" target="Krefeld" />
+    <edge source="Gelsenkirchen" target="Steinbach am Taunus" />
+    <edge source="Gelsenkirchen" target="Asperg" />
+    <edge source="Aachen" target="Oberhausen">
+      <data key="d3">97.31235448211318</data>
+      <data key="d4">0.010276187492553254</data>
+    </edge>
+    <edge source="Aachen" target="Mülheim">
+      <data key="d3">91.60162173262364</data>
+      <data key="d4">0.010916837290489291</data>
+    </edge>
+    <edge source="Aachen" target="Solingen">
+      <data key="d3">82.60578727532425</data>
+      <data key="d4">0.012105689358870344</data>
+    </edge>
+    <edge source="Aachen" target="Herne">
+      <data key="d3">117.06495233562832</data>
+      <data key="d4">0.008542266323510503</data>
+    </edge>
+    <edge source="Aachen" target="Neuss">
+      <data key="d3">64.04946278471515</data>
+      <data key="d4">0.015612933450530695</data>
+    </edge>
+    <edge source="Aachen" target="Remscheid">
+      <data key="d3">90.57571741783431</data>
+      <data key="d4">0.011040486661418379</data>
+    </edge>
+    <edge source="Aachen" target="Recklinghausen">
+      <data key="d3">117.44392313100839</data>
+      <data key="d4">0.008514701938937297</data>
+    </edge>
+    <edge source="Aachen" target="Herten">
+      <data key="d3">117.4610916934472</data>
+      <data key="d4">0.008513457397534022</data>
+    </edge>
+    <edge source="Aachen" target="Sankt Augustin">
+      <data key="d3">77.81439323346324</data>
+      <data key="d4">0.012851092946259213</data>
+    </edge>
+    <edge source="Aachen" target="Ingolstadt" />
+    <edge source="Aachen" target="Würzburg" />
+    <edge source="Aachen" target="Eppelheim" />
+    <edge source="Aachen" target="Halle-Neustadt" />
+    <edge source="Aachen" target="Kiel" />
+    <edge source="Aachen" target="Hilden" />
+    <edge source="Aachen" target="Weißenthurm" />
+    <edge source="Aachen" target="Haar" />
+    <edge source="Aachen" target="Gladbeck" />
+    <edge source="Aachen" target="Puchheim" />
+    <edge source="Aachen" target="Heidelberg" />
+    <edge source="Aachen" target="Wentorf bei Hamburg" />
+    <edge source="Aachen" target="Regensburg" />
+    <edge source="Aachen" target="Bad Soden am Taunus" />
+    <edge source="Aachen" target="Siegburg" />
+    <edge source="Aachen" target="Ludwigsburg" />
+    <edge source="Aachen" target="Gröbenzell" />
+    <edge source="Braunschweig" target="Wolfsburg">
+      <data key="d3">25.35141410665637</data>
+      <data key="d4">0.03944553135351278</data>
+    </edge>
+    <edge source="Braunschweig" target="Darmstadt" />
+    <edge source="Braunschweig" target="Weißenthurm" />
+    <edge source="Braunschweig" target="Ulm" />
+    <edge source="Braunschweig" target="Germering" />
+    <edge source="Braunschweig" target="Fürth" />
+    <edge source="Braunschweig" target="Kaiserslautern" />
+    <edge source="Braunschweig" target="Siegen" />
+    <edge source="Braunschweig" target="Schwerin" />
+    <edge source="Braunschweig" target="Paderborn" />
+    <edge source="Chemnitz" target="Obertshausen" />
+    <edge source="Chemnitz" target="Rostock" />
+    <edge source="Kiel" target="Herne" />
+    <edge source="Kiel" target="Remscheid" />
+    <edge source="Kiel" target="Ulm" />
+    <edge source="Kiel" target="Moers" />
+    <edge source="Kiel" target="Paderborn" />
+    <edge source="Kiel" target="Hilden" />
+    <edge source="Kiel" target="Mülheim" />
+    <edge source="Kiel" target="Gütersloh" />
+    <edge source="Kiel" target="Heilbronn" />
+    <edge source="Kiel" target="Osnabrück" />
+    <edge source="Kiel" target="Altbach" />
+    <edge source="Halle" target="Wolfsburg">
+      <data key="d3">132.492671086307</data>
+      <data key="d4">0.007547587287666578</data>
+    </edge>
+    <edge source="Halle" target="Esslingen" />
+    <edge source="Halle" target="Oldenburg" />
+    <edge source="Halle" target="Halle-Neustadt" />
+    <edge source="Halle" target="Trier" />
+    <edge source="Halle" target="Koblenz" />
+    <edge source="Halle" target="Siegburg" />
+    <edge source="Halle" target="Obertshausen" />
+    <edge source="Magdeburg" target="Salzgitter">
+      <data key="d3">89.4268469984904</data>
+      <data key="d4">0.011182324252323027</data>
+    </edge>
+    <edge source="Magdeburg" target="Obertshausen" />
+    <edge source="Magdeburg" target="Recklinghausen" />
+    <edge source="Magdeburg" target="Siegen" />
+    <edge source="Magdeburg" target="Steinbach am Taunus" />
+    <edge source="Magdeburg" target="Gladbeck" />
+    <edge source="Magdeburg" target="Würzburg" />
+    <edge source="Magdeburg" target="Ostfildern" />
+    <edge source="Magdeburg" target="Krefeld" />
+    <edge source="Magdeburg" target="Oberhausen" />
+    <edge source="Magdeburg" target="Ludwigshafen" />
+    <edge source="Freiburg im Breisgau" target="Fellbach">
+      <data key="d3">139.02945207824146</data>
+      <data key="d4">0.007192720571445761</data>
+    </edge>
+    <edge source="Freiburg im Breisgau" target="Kornwestheim">
+      <data key="d3">137.8792520779518</data>
+      <data key="d4">0.007252722834865954</data>
+    </edge>
+    <edge source="Freiburg im Breisgau" target="Trier" />
+    <edge source="Freiburg im Breisgau" target="Herten" />
+    <edge source="Freiburg im Breisgau" target="Hagen" />
+    <edge source="Freiburg im Breisgau" target="Altbach" />
+    <edge source="Freiburg im Breisgau" target="Gütersloh" />
+    <edge source="Freiburg im Breisgau" target="Moers" />
+    <edge source="Freiburg im Breisgau" target="Bottrop" />
+    <edge source="Krefeld" target="Hagen">
+      <data key="d3">63.96550212553305</data>
+      <data key="d4">0.01563342687496595</data>
+    </edge>
+    <edge source="Krefeld" target="Herne">
+      <data key="d3">51.22231550926512</data>
+      <data key="d4">0.019522741017420804</data>
+    </edge>
+    <edge source="Krefeld" target="Recklinghausen">
+      <data key="d3">49.954691663584335</data>
+      <data key="d4">0.020018139772224317</data>
+    </edge>
+    <edge source="Krefeld" target="Moers">
+      <data key="d3">14.48466926035563</data>
+      <data key="d4">0.06903851113376736</data>
+    </edge>
+    <edge source="Krefeld" target="Gladbeck">
+      <data key="d3">38.04605012840043</data>
+      <data key="d4">0.026283937402835016</data>
+    </edge>
+    <edge source="Krefeld" target="Bremerhaven" />
+    <edge source="Krefeld" target="Wentorf bei Hamburg" />
+    <edge source="Krefeld" target="Jena" />
+    <edge source="Krefeld" target="Kaiserslautern" />
+    <edge source="Krefeld" target="Solingen" />
+    <edge source="Krefeld" target="Haar" />
+    <edge source="Krefeld" target="Obertshausen" />
+    <edge source="Krefeld" target="Ottobrunn" />
+    <edge source="Krefeld" target="Oberhausen" />
+    <edge source="Krefeld" target="Ludwigsburg" />
+    <edge source="Krefeld" target="Siegburg" />
+    <edge source="Krefeld" target="Göttingen" />
+    <edge source="Krefeld" target="Koblenz" />
+    <edge source="Krefeld" target="Eichwalde" />
+    <edge source="Krefeld" target="Wolfratshausen" />
+    <edge source="Krefeld" target="Heilbronn" />
+    <edge source="Krefeld" target="Pinneberg" />
+    <edge source="Krefeld" target="Ulm" />
+    <edge source="Krefeld" target="Pforzheim" />
+    <edge source="Krefeld" target="Schenefeld" />
+    <edge source="Mainz" target="Darmstadt">
+      <data key="d3">30.680145101876246</data>
+      <data key="d4">0.03259436996400793</data>
+    </edge>
+    <edge source="Mainz" target="Koblenz">
+      <data key="d3">62.739412958698885</data>
+      <data key="d4">0.01593894416350845</data>
+    </edge>
+    <edge source="Mainz" target="Bergisch Gladbach">
+      <data key="d3">136.99175677603293</data>
+      <data key="d4">0.007299709292982457</data>
+    </edge>
+    <edge source="Mainz" target="Trier">
+      <data key="d3">120.38052470217019</data>
+      <data key="d4">0.008306991537660013</data>
+    </edge>
+    <edge source="Mainz" target="Siegen">
+      <data key="d3">100.00197487350482</data>
+      <data key="d4">0.009999802516549566</data>
+    </edge>
+    <edge source="Mainz" target="Sankt Augustin">
+      <data key="d3">115.42446032495646</data>
+      <data key="d4">0.008663674902050077</data>
+    </edge>
+    <edge source="Mainz" target="Siegburg">
+      <data key="d3">117.20484031109687</data>
+      <data key="d4">0.00853207083722566</data>
+    </edge>
+    <edge source="Mainz" target="Neulußheim">
+      <data key="d3">80.55519107619713</data>
+      <data key="d4">0.01241384927079498</data>
+    </edge>
+    <edge source="Mainz" target="Pinneberg" />
+    <edge source="Mainz" target="Remscheid" />
+    <edge source="Mainz" target="Mülheim" />
+    <edge source="Mainz" target="Kassel" />
+    <edge source="Mainz" target="Hamm" />
+    <edge source="Mainz" target="Neubiberg" />
+    <edge source="Mainz" target="Ostfildern" />
+    <edge source="Mainz" target="Neuss" />
+    <edge source="Mainz" target="Rosenheim" />
+    <edge source="Mainz" target="Eilendorf" />
+    <edge source="Mainz" target="Obertshausen" />
+    <edge source="Mainz" target="Kriftel" />
+    <edge source="Mainz" target="Gütersloh" />
+    <edge source="Mainz" target="Leverkusen" />
+    <edge source="Mainz" target="Ottobrunn" />
+    <edge source="Mainz" target="Bremerhaven" />
+    <edge source="Mainz" target="Oberhausen" />
+    <edge source="Mainz" target="Kaiserslautern" />
+    <edge source="Lübeck" target="Flensburg">
+      <data key="d3">130.07671159552922</data>
+      <data key="d4">0.007687771221565616</data>
+    </edge>
+    <edge source="Lübeck" target="Schenefeld">
+      <data key="d3">64.23635421231349</data>
+      <data key="d4">0.015567508652418348</data>
+    </edge>
+    <edge source="Lübeck" target="Germering" />
+    <edge source="Lübeck" target="Hattersheim" />
+    <edge source="Lübeck" target="Hamm" />
+    <edge source="Lübeck" target="Eschborn" />
+    <edge source="Lübeck" target="Weißenthurm" />
+    <edge source="Lübeck" target="Sankt Augustin" />
+    <edge source="Lübeck" target="Heidelberg" />
+    <edge source="Lübeck" target="Heilbronn" />
+    <edge source="Lübeck" target="Pforzheim" />
+    <edge source="Oberhausen" target="Hamm">
+      <data key="d3">68.25261560140137</data>
+      <data key="d4">0.014651453152213962</data>
+    </edge>
+    <edge source="Oberhausen" target="Leverkusen">
+      <data key="d3">52.15142813286089</data>
+      <data key="d4">0.01917493030972041</data>
+    </edge>
+    <edge source="Oberhausen" target="Solingen">
+      <data key="d3">39.59389947289023</data>
+      <data key="d4">0.025256416097249924</data>
+    </edge>
+    <edge source="Oberhausen" target="Koblenz">
+      <data key="d3">136.42786953694548</data>
+      <data key="d4">0.007329880642379994</data>
+    </edge>
+    <edge source="Oberhausen" target="Siegen">
+      <data key="d3">105.24458822633333</data>
+      <data key="d4">0.00950167620827642</data>
+    </edge>
+    <edge source="Oberhausen" target="Sankt Augustin">
+      <data key="d3">83.81876856033008</data>
+      <data key="d4">0.011930502167664654</data>
+    </edge>
+    <edge source="Oberhausen" target="Asperg" />
+    <edge source="Oberhausen" target="Obertshausen" />
+    <edge source="Oberhausen" target="Haar" />
+    <edge source="Oberhausen" target="Schenefeld" />
+    <edge source="Oberhausen" target="Kornwestheim" />
+    <edge source="Oberhausen" target="Elmshorn" />
+    <edge source="Oberhausen" target="Hagen" />
+    <edge source="Oberhausen" target="Recklinghausen" />
+    <edge source="Oberhausen" target="Erlangen" />
+    <edge source="Oberhausen" target="Eilendorf" />
+    <edge source="Oberhausen" target="Remscheid" />
+    <edge source="Oberhausen" target="Würzburg" />
+    <edge source="Oberhausen" target="Ulm" />
+    <edge source="Oberhausen" target="Oldenburg" />
+    <edge source="Oberhausen" target="Ludwigsburg" />
+    <edge source="Oberhausen" target="Regensburg" />
+    <edge source="Oberhausen" target="Herne" />
+    <edge source="Oberhausen" target="Wolfratshausen" />
+    <edge source="Oberhausen" target="Ostfildern" />
+    <edge source="Oberhausen" target="Bad Soden am Taunus" />
+    <edge source="Rostock" target="Asperg" />
+    <edge source="Rostock" target="Bergisch Gladbach" />
+    <edge source="Rostock" target="Darmstadt" />
+    <edge source="Rostock" target="Hilden" />
+    <edge source="Kassel" target="Göttingen">
+      <data key="d3">38.9310127926488</data>
+      <data key="d4">0.025686462495237893</data>
+    </edge>
+    <edge source="Kassel" target="Hanau">
+      <data key="d3">137.84585826046126</data>
+      <data key="d4">0.007254479841610395</data>
+    </edge>
+    <edge source="Kassel" target="Sankt Augustin" />
+    <edge source="Kassel" target="Herten" />
+    <edge source="Kassel" target="Kaiserslautern" />
+    <edge source="Kassel" target="Bad Soden am Taunus" />
+    <edge source="Kassel" target="Darmstadt" />
+    <edge source="Kassel" target="Hattersheim" />
+    <edge source="Kassel" target="Esslingen" />
+    <edge source="Kassel" target="Remscheid" />
+    <edge source="Kassel" target="Obertshausen" />
+    <edge source="Kassel" target="Kriftel" />
+    <edge source="Kassel" target="Kronshagen" />
+    <edge source="Kassel" target="Neulußheim" />
+    <edge source="Kassel" target="Siegen" />
+    <edge source="Hagen" target="Hamm">
+      <data key="d3">40.61581741924527</data>
+      <data key="d4">0.02462094975653902</data>
+    </edge>
+    <edge source="Hagen" target="Mülheim">
+      <data key="d3">42.35723125149539</data>
+      <data key="d4">0.023608719702723623</data>
+    </edge>
+    <edge source="Hagen" target="Leverkusen">
+      <data key="d3">50.96170448215561</data>
+      <data key="d4">0.019622577583725695</data>
+    </edge>
+    <edge source="Hagen" target="Solingen">
+      <data key="d3">35.6999884335617</data>
+      <data key="d4">0.02801121355714211</data>
+    </edge>
+    <edge source="Hagen" target="Herne">
+      <data key="d3">27.55430130323624</data>
+      <data key="d4">0.036291974490478204</data>
+    </edge>
+    <edge source="Hagen" target="Bergisch Gladbach">
+      <data key="d3">48.46518960000646</data>
+      <data key="d4">0.020633366097465276</data>
+    </edge>
+    <edge source="Hagen" target="Siegen">
+      <data key="d3">65.4718465443189</data>
+      <data key="d4">0.015273740588988654</data>
+    </edge>
+    <edge source="Hagen" target="Gütersloh">
+      <data key="d3">86.04343497022943</data>
+      <data key="d4">0.011622037176293516</data>
+    </edge>
+    <edge source="Hagen" target="Gladbeck">
+      <data key="d3">42.23576246710495</data>
+      <data key="d4">0.023676617671548928</data>
+    </edge>
+    <edge source="Hagen" target="Sankt Augustin">
+      <data key="d3">69.56188453710818</data>
+      <data key="d4">0.014375688736071321</data>
+    </edge>
+    <edge source="Hagen" target="Puchheim" />
+    <edge source="Hagen" target="Potsdam" />
+    <edge source="Hagen" target="Würzburg" />
+    <edge source="Hagen" target="Altbach" />
+    <edge source="Hagen" target="Wolfratshausen" />
+    <edge source="Hagen" target="Schenefeld" />
+    <edge source="Hagen" target="Heilbronn" />
+    <edge source="Hagen" target="Eppelheim" />
+    <edge source="Hagen" target="Eschborn" />
+    <edge source="Hagen" target="Heidelberg" />
+    <edge source="Hagen" target="Moers" />
+    <edge source="Hagen" target="Darmstadt" />
+    <edge source="Hagen" target="Unterhaching" />
+    <edge source="Hagen" target="Erlangen" />
+    <edge source="Hagen" target="Neuss" />
+    <edge source="Hagen" target="Hildesheim" />
+    <edge source="Hagen" target="Merzhausen" />
+    <edge source="Potsdam" target="Leverkusen" />
+    <edge source="Potsdam" target="Osnabrück" />
+    <edge source="Potsdam" target="Heidelberg" />
+    <edge source="Saarbrücken" target="Koblenz">
+      <data key="d3">132.4697341430178</data>
+      <data key="d4">0.007548894141512911</data>
+    </edge>
+    <edge source="Saarbrücken" target="Herten" />
+    <edge source="Saarbrücken" target="Recklinghausen" />
+    <edge source="Saarbrücken" target="Hattersheim" />
+    <edge source="Saarbrücken" target="Unterhaching" />
+    <edge source="Saarbrücken" target="Asperg" />
+    <edge source="Saarbrücken" target="Siegburg" />
+    <edge source="Saarbrücken" target="Erlangen" />
+    <edge source="Saarbrücken" target="Gütersloh" />
+    <edge source="Saarbrücken" target="Osnabrück" />
+    <edge source="Saarbrücken" target="Fellbach" />
+    <edge source="Saarbrücken" target="Merzhausen" />
+    <edge source="Saarbrücken" target="Altbach" />
+    <edge source="Hamm" target="Leverkusen">
+      <data key="d3">91.30592195571018</data>
+      <data key="d4">0.010952192131470626</data>
+    </edge>
+    <edge source="Hamm" target="Solingen">
+      <data key="d3">75.48151477729594</data>
+      <data key="d4">0.013248276786050797</data>
+    </edge>
+    <edge source="Hamm" target="Paderborn">
+      <data key="d3">65.07731009021563</data>
+      <data key="d4">0.01536633887623376</data>
+    </edge>
+    <edge source="Hamm" target="Remscheid">
+      <data key="d3">68.79152294293444</data>
+      <data key="d4">0.014536674828809118</data>
+    </edge>
+    <edge source="Hamm" target="Siegen">
+      <data key="d3">88.26627197878847</data>
+      <data key="d4">0.011329355795612542</data>
+    </edge>
+    <edge source="Hamm" target="Hanau" />
+    <edge source="Hamm" target="Bad Soden am Taunus" />
+    <edge source="Hamm" target="Kornwestheim" />
+    <edge source="Hamm" target="Regensburg" />
+    <edge source="Hamm" target="Koblenz" />
+    <edge source="Hamm" target="Eilendorf" />
+    <edge source="Hamm" target="Neulußheim" />
+    <edge source="Hamm" target="Ostfildern" />
+    <edge source="Hamm" target="Trier" />
+    <edge source="Hamm" target="Unterschleißheim" />
+    <edge source="Hamm" target="Kriftel" />
+    <edge source="Hamm" target="Neubiberg" />
+    <edge source="Hamm" target="Fellbach" />
+    <edge source="Hamm" target="Unterhaching" />
+    <edge source="Hamm" target="Hilden" />
+    <edge source="Hamm" target="Wolfsburg" />
+    <edge source="Hamm" target="Ludwigshafen" />
+    <edge source="Hamm" target="Bergisch Gladbach" />
+    <edge source="Ludwigshafen" target="Pforzheim">
+      <data key="d3">68.08240299551784</data>
+      <data key="d4">0.014688083205080677</data>
+    </edge>
+    <edge source="Ludwigshafen" target="Asperg">
+      <data key="d3">82.24996838659548</data>
+      <data key="d4">0.012158059384287531</data>
+    </edge>
+    <edge source="Ludwigshafen" target="Neulußheim">
+      <data key="d3">21.81241102802901</data>
+      <data key="d4">0.04584545920737497</data>
+    </edge>
+    <edge source="Ludwigshafen" target="Unterschleißheim" />
+    <edge source="Ludwigshafen" target="Moers" />
+    <edge source="Ludwigshafen" target="Paderborn" />
+    <edge source="Ludwigshafen" target="Herne" />
+    <edge source="Ludwigshafen" target="Eilendorf" />
+    <edge source="Ludwigshafen" target="Wentorf bei Hamburg" />
+    <edge source="Ludwigshafen" target="Sankt Augustin" />
+    <edge source="Ludwigshafen" target="Siegburg" />
+    <edge source="Ludwigshafen" target="Weißenthurm" />
+    <edge source="Ludwigshafen" target="Koblenz" />
+    <edge source="Ludwigshafen" target="Neubiberg" />
+    <edge source="Ludwigshafen" target="Eschborn" />
+    <edge source="Ludwigshafen" target="Bergisch Gladbach" />
+    <edge source="Ludwigshafen" target="Recklinghausen" />
+    <edge source="Ludwigshafen" target="Heilbronn" />
+    <edge source="Ludwigshafen" target="Ostfildern" />
+    <edge source="Ludwigshafen" target="Fellbach" />
+    <edge source="Ludwigshafen" target="Osnabrück" />
+    <edge source="Oldenburg" target="Gütersloh">
+      <data key="d3">138.89439585929352</data>
+      <data key="d4">0.007199714529973164</data>
+    </edge>
+    <edge source="Oldenburg" target="Koblenz" />
+    <edge source="Oldenburg" target="Bottrop" />
+    <edge source="Oldenburg" target="Neuss" />
+    <edge source="Oldenburg" target="Moers" />
+    <edge source="Oldenburg" target="Hanau" />
+    <edge source="Oldenburg" target="Siegen" />
+    <edge source="Mülheim" target="Paderborn">
+      <data key="d3">133.7276612214726</data>
+      <data key="d4">0.007477884462092353</data>
+    </edge>
+    <edge source="Mülheim" target="Remscheid">
+      <data key="d3">35.04766403475394</data>
+      <data key="d4">0.02853257207123364</data>
+    </edge>
+    <edge source="Mülheim" target="Moers">
+      <data key="d3">18.60884035408319</data>
+      <data key="d4">0.0537378998891018</data>
+    </edge>
+    <edge source="Mülheim" target="Hilden">
+      <data key="d3">28.767192144887556</data>
+      <data key="d4">0.03476182155573073</data>
+    </edge>
+    <edge source="Mülheim" target="Eilendorf">
+      <data key="d3">87.98632529636554</data>
+      <data key="d4">0.011365402483075483</data>
+    </edge>
+    <edge source="Mülheim" target="Ingolstadt" />
+    <edge source="Mülheim" target="Weingarten" />
+    <edge source="Mülheim" target="Würzburg" />
+    <edge source="Mülheim" target="Steinbach am Taunus" />
+    <edge source="Mülheim" target="Kornwestheim" />
+    <edge source="Mülheim" target="Koblenz" />
+    <edge source="Mülheim" target="Solingen" />
+    <edge source="Mülheim" target="Ludwigsburg" />
+    <edge source="Mülheim" target="Neulußheim" />
+    <edge source="Mülheim" target="Kaiserslautern" />
+    <edge source="Mülheim" target="Recklinghausen" />
+    <edge source="Mülheim" target="Hildesheim" />
+    <edge source="Mülheim" target="Trier" />
+    <edge source="Mülheim" target="Halle-Neustadt" />
+    <edge source="Mülheim" target="Kriftel" />
+    <edge source="Mülheim" target="Heilbronn" />
+    <edge source="Mülheim" target="Gladbeck" />
+    <edge source="Mülheim" target="Leverkusen" />
+    <edge source="Mülheim" target="Siegburg" />
+    <edge source="Mülheim" target="Reutlingen" />
+    <edge source="Osnabrück" target="Bottrop">
+      <data key="d3">114.63984536614278</data>
+      <data key="d4">0.008722970593742056</data>
+    </edge>
+    <edge source="Osnabrück" target="Remscheid">
+      <data key="d3">135.74472482135616</data>
+      <data key="d4">0.007366768773637634</data>
+    </edge>
+    <edge source="Osnabrück" target="Gütersloh">
+      <data key="d3">48.381741339946075</data>
+      <data key="d4">0.020668954285329874</data>
+    </edge>
+    <edge source="Osnabrück" target="Hilden">
+      <data key="d3">145.57481789678485</data>
+      <data key="d4">0.006869319944532013</data>
+    </edge>
+    <edge source="Osnabrück" target="Eschborn" />
+    <edge source="Osnabrück" target="Obertshausen" />
+    <edge source="Osnabrück" target="Bergisch Gladbach" />
+    <edge source="Osnabrück" target="Ostfildern" />
+    <edge source="Osnabrück" target="Trier" />
+    <edge source="Osnabrück" target="Eppelheim" />
+    <edge source="Osnabrück" target="Heidelberg" />
+    <edge source="Osnabrück" target="Glinde" />
+    <edge source="Osnabrück" target="Kriftel" />
+    <edge source="Osnabrück" target="Unterschleißheim" />
+    <edge source="Osnabrück" target="Neulußheim" />
+    <edge source="Osnabrück" target="Hanau" />
+    <edge source="Osnabrück" target="Herne" />
+    <edge source="Osnabrück" target="Siegen" />
+    <edge source="Osnabrück" target="Sankt Augustin" />
+    <edge source="Osnabrück" target="Haar" />
+    <edge source="Osnabrück" target="Neuss" />
+    <edge source="Leverkusen" target="Solingen">
+      <data key="d3">16.410784626345908</data>
+      <data key="d4">0.0609355385966493</data>
+    </edge>
+    <edge source="Leverkusen" target="Herne">
+      <data key="d3">59.74593870395815</data>
+      <data key="d4">0.01673753934899261</data>
+    </edge>
+    <edge source="Leverkusen" target="Moers">
+      <data key="d3">53.755694576850125</data>
+      <data key="d4">0.0186026802903715</data>
+    </edge>
+    <edge source="Leverkusen" target="Gütersloh">
+      <data key="d3">136.9731934653001</data>
+      <data key="d4">0.00730069858708035</data>
+    </edge>
+    <edge source="Leverkusen" target="Herten">
+      <data key="d3">63.90922999372161</data>
+      <data key="d4">0.015647192120734975</data>
+    </edge>
+    <edge source="Leverkusen" target="Bad Soden am Taunus">
+      <data key="d3">146.83509988707436</data>
+      <data key="d4">0.006810360743235536</data>
+    </edge>
+    <edge source="Leverkusen" target="Eschborn">
+      <data key="d3">149.73050187777213</data>
+      <data key="d4">0.006678665919495275</data>
+    </edge>
+    <edge source="Leverkusen" target="Steinbach am Taunus">
+      <data key="d3">147.84683906795328</data>
+      <data key="d4">0.006763756373177383</data>
+    </edge>
+    <edge source="Leverkusen" target="Bremerhaven" />
+    <edge source="Leverkusen" target="Ingolstadt" />
+    <edge source="Leverkusen" target="Regensburg" />
+    <edge source="Leverkusen" target="Kaiserslautern" />
+    <edge source="Leverkusen" target="Würzburg" />
+    <edge source="Leverkusen" target="Paderborn" />
+    <edge source="Leverkusen" target="Ostfildern" />
+    <edge source="Leverkusen" target="Kornwestheim" />
+    <edge source="Leverkusen" target="Koblenz" />
+    <edge source="Leverkusen" target="Heidelberg" />
+    <edge source="Leverkusen" target="Kronshagen" />
+    <edge source="Leverkusen" target="Eilendorf" />
+    <edge source="Leverkusen" target="Recklinghausen" />
+    <edge source="Leverkusen" target="Gladbeck" />
+    <edge source="Leverkusen" target="Eppelheim" />
+    <edge source="Leverkusen" target="Neulußheim" />
+    <edge source="Leverkusen" target="Weißenthurm" />
+    <edge source="Leverkusen" target="Ludwigsburg" />
+    <edge source="Leverkusen" target="Remscheid" />
+    <edge source="Leverkusen" target="Obertshausen" />
+    <edge source="Heidelberg" target="Würzburg">
+      <data key="d3">96.93708544145501</data>
+      <data key="d4">0.010315969326351867</data>
+    </edge>
+    <edge source="Heidelberg" target="Ludwigsburg">
+      <data key="d3">67.35732945197697</data>
+      <data key="d4">0.014846194291490717</data>
+    </edge>
+    <edge source="Heidelberg" target="Bad Soden am Taunus">
+      <data key="d3">81.21754331201332</data>
+      <data key="d4">0.01231261078851279</data>
+    </edge>
+    <edge source="Heidelberg" target="Eschborn">
+      <data key="d3">81.5367290179277</data>
+      <data key="d4">0.012264411536304422</data>
+    </edge>
+    <edge source="Heidelberg" target="Weißenthurm">
+      <data key="d3">143.010903761618</data>
+      <data key="d4">0.006992473816310397</data>
+    </edge>
+    <edge source="Heidelberg" target="Altbach">
+      <data key="d3">91.01081120744921</data>
+      <data key="d4">0.010987705600388609</data>
+    </edge>
+    <edge source="Heidelberg" target="Jena" />
+    <edge source="Heidelberg" target="Gütersloh" />
+    <edge source="Heidelberg" target="Unterschleißheim" />
+    <edge source="Heidelberg" target="Herne" />
+    <edge source="Heidelberg" target="Hilden" />
+    <edge source="Heidelberg" target="Wentorf bei Hamburg" />
+    <edge source="Heidelberg" target="Solingen" />
+    <edge source="Heidelberg" target="Darmstadt" />
+    <edge source="Heidelberg" target="Herten" />
+    <edge source="Heidelberg" target="Eilendorf" />
+    <edge source="Heidelberg" target="Recklinghausen" />
+    <edge source="Heidelberg" target="Fürth" />
+    <edge source="Heidelberg" target="Siegen" />
+    <edge source="Heidelberg" target="Unterhaching" />
+    <edge source="Heidelberg" target="Elmshorn" />
+    <edge source="Heidelberg" target="Bergisch Gladbach" />
+    <edge source="Darmstadt" target="Würzburg">
+      <data key="d3">92.66192049828668</data>
+      <data key="d4">0.010791919643177373</data>
+    </edge>
+    <edge source="Darmstadt" target="Hanau">
+      <data key="d3">34.62215538025398</data>
+      <data key="d4">0.02888323933091494</data>
+    </edge>
+    <edge source="Darmstadt" target="Hattersheim">
+      <data key="d3">25.246064880810373</data>
+      <data key="d4">0.039610133488966186</data>
+    </edge>
+    <edge source="Darmstadt" target="Eppelheim">
+      <data key="d3">52.53793396905833</data>
+      <data key="d4">0.019033866093572306</data>
+    </edge>
+    <edge source="Darmstadt" target="Asperg">
+      <data key="d3">113.61342002652407</data>
+      <data key="d4">0.008801777111951573</data>
+    </edge>
+    <edge source="Darmstadt" target="Kriftel">
+      <data key="d3">27.62118662991864</data>
+      <data key="d4">0.03620409265533953</data>
+    </edge>
+    <edge source="Darmstadt" target="Weißenthurm">
+      <data key="d3">104.40075802294774</data>
+      <data key="d4">0.009578474514334424</data>
+    </edge>
+    <edge source="Darmstadt" target="Hilden" />
+    <edge source="Darmstadt" target="Gütersloh" />
+    <edge source="Darmstadt" target="Fellbach" />
+    <edge source="Darmstadt" target="Bergisch Gladbach" />
+    <edge source="Darmstadt" target="Sankt Augustin" />
+    <edge source="Darmstadt" target="Remscheid" />
+    <edge source="Darmstadt" target="Bottrop" />
+    <edge source="Darmstadt" target="Weingarten" />
+    <edge source="Darmstadt" target="Obertshausen" />
+    <edge source="Darmstadt" target="Herne" />
+    <edge source="Darmstadt" target="Pinneberg" />
+    <edge source="Darmstadt" target="Neuss" />
+    <edge source="Darmstadt" target="Gröbenzell" />
+    <edge source="Darmstadt" target="Siegburg" />
+    <edge source="Darmstadt" target="Ostfildern" />
+    <edge source="Darmstadt" target="Flensburg" />
+    <edge source="Darmstadt" target="Gladbeck" />
+    <edge source="Solingen" target="Remscheid">
+      <data key="d3">8.367555391821787</data>
+      <data key="d4">0.11950921782691416</data>
+    </edge>
+    <edge source="Solingen" target="Recklinghausen">
+      <data key="d3">46.85884738564942</data>
+      <data key="d4">0.02134068710162622</data>
+    </edge>
+    <edge source="Solingen" target="Siegen">
+      <data key="d3">72.68072552504114</data>
+      <data key="d4">0.013758805966452053</data>
+    </edge>
+    <edge source="Solingen" target="Gütersloh">
+      <data key="d3">121.62506146634006</data>
+      <data key="d4">0.008221989678309448</data>
+    </edge>
+    <edge source="Solingen" target="Gladbeck">
+      <data key="d3">45.23689876110898</data>
+      <data key="d4">0.02210584782305455</data>
+    </edge>
+    <edge source="Solingen" target="Sankt Augustin">
+      <data key="d3">44.72565851726425</data>
+      <data key="d4">0.022358530497969008</data>
+    </edge>
+    <edge source="Solingen" target="Weißenthurm">
+      <data key="d3">87.81576179112872</data>
+      <data key="d4">0.011387477368567581</data>
+    </edge>
+    <edge source="Solingen" target="Elmshorn" />
+    <edge source="Solingen" target="Bergisch Gladbach" />
+    <edge source="Solingen" target="Schwerin" />
+    <edge source="Solingen" target="Fellbach" />
+    <edge source="Solingen" target="Reutlingen" />
+    <edge source="Solingen" target="Kriftel" />
+    <edge source="Solingen" target="Bottrop" />
+    <edge source="Solingen" target="Puchheim" />
+    <edge source="Solingen" target="Pforzheim" />
+    <edge source="Solingen" target="Hattersheim" />
+    <edge source="Solingen" target="Regensburg" />
+    <edge source="Solingen" target="Ulm" />
+    <edge source="Solingen" target="Ludwigsburg" />
+    <edge source="Solingen" target="Herten" />
+    <edge source="Regensburg" target="Trier" />
+    <edge source="Regensburg" target="Sankt Augustin" />
+    <edge source="Regensburg" target="Koblenz" />
+    <edge source="Regensburg" target="Ostfildern" />
+    <edge source="Regensburg" target="Fellbach" />
+    <edge source="Regensburg" target="Hilden" />
+    <edge source="Regensburg" target="Hildesheim" />
+    <edge source="Regensburg" target="Kornwestheim" />
+    <edge source="Regensburg" target="Bad Soden am Taunus" />
+    <edge source="Regensburg" target="Würzburg" />
+    <edge source="Herne" target="Bottrop">
+      <data key="d3">20.585227020084123</data>
+      <data key="d4">0.04857852667956214</data>
+    </edge>
+    <edge source="Herne" target="Bergisch Gladbach">
+      <data key="d3">62.3937032583824</data>
+      <data key="d4">0.016027258325392844</data>
+    </edge>
+    <edge source="Herne" target="Recklinghausen">
+      <data key="d3">5.440736739585159</data>
+      <data key="d4">0.18379863754926823</data>
+    </edge>
+    <edge source="Herne" target="Sankt Augustin">
+      <data key="d3">86.80141395621455</data>
+      <data key="d4">0.011520549659530114</data>
+    </edge>
+    <edge source="Herne" target="Eilendorf">
+      <data key="d3">113.07846084719701</data>
+      <data key="d4">0.008843417150427088</data>
+    </edge>
+    <edge source="Herne" target="Puchheim" />
+    <edge source="Herne" target="Germering" />
+    <edge source="Herne" target="Heilbronn" />
+    <edge source="Herne" target="Schenefeld" />
+    <edge source="Herne" target="Fürth" />
+    <edge source="Herne" target="Ottobrunn" />
+    <edge source="Herne" target="Ingolstadt" />
+    <edge source="Herne" target="Weißenthurm" />
+    <edge source="Herne" target="Neubiberg" />
+    <edge source="Herne" target="Eppelheim" />
+    <edge source="Herne" target="Altbach" />
+    <edge source="Herne" target="Siegen" />
+    <edge source="Herne" target="Siegburg" />
+    <edge source="Herne" target="Asperg" />
+    <edge source="Herne" target="Glinde" />
+    <edge source="Herne" target="Eschborn" />
+    <edge source="Herne" target="Koblenz" />
+    <edge source="Paderborn" target="Göttingen">
+      <data key="d3">84.33745719404104</data>
+      <data key="d4">0.011857127701861234</data>
+    </edge>
+    <edge source="Paderborn" target="Recklinghausen">
+      <data key="d3">111.19125437743112</data>
+      <data key="d4">0.008993513074378748</data>
+    </edge>
+    <edge source="Paderborn" target="Salzgitter">
+      <data key="d3">118.76207693510939</data>
+      <data key="d4">0.008420196293353742</data>
+    </edge>
+    <edge source="Paderborn" target="Siegen">
+      <data key="d3">106.16522673454027</data>
+      <data key="d4">0.009419280029424696</data>
+    </edge>
+    <edge source="Paderborn" target="Gütersloh">
+      <data key="d3">32.618866381742315</data>
+      <data key="d4">0.030657104642966004</data>
+    </edge>
+    <edge source="Paderborn" target="Hildesheim">
+      <data key="d3">95.25436028141884</data>
+      <data key="d4">0.010498207085172864</data>
+    </edge>
+    <edge source="Paderborn" target="Siegburg">
+      <data key="d3">148.67076397490868</data>
+      <data key="d4">0.006726272020561965</data>
+    </edge>
+    <edge source="Paderborn" target="Steinbach am Taunus" />
+    <edge source="Paderborn" target="Eichenau" />
+    <edge source="Paderborn" target="Bottrop" />
+    <edge source="Paderborn" target="Würzburg" />
+    <edge source="Paderborn" target="Eschborn" />
+    <edge source="Paderborn" target="Wolfratshausen" />
+    <edge source="Paderborn" target="Obertshausen" />
+    <edge source="Paderborn" target="Hattersheim" />
+    <edge source="Paderborn" target="Wentorf bei Hamburg" />
+    <edge source="Paderborn" target="Koblenz" />
+    <edge source="Paderborn" target="Asperg" />
+    <edge source="Paderborn" target="Ludwigsburg" />
+    <edge source="Paderborn" target="Ulm" />
+    <edge source="Paderborn" target="Eppelheim" />
+    <edge source="Neuss" target="Remscheid">
+      <data key="d3">35.00332005281135</data>
+      <data key="d4">0.028568718581301646</data>
+    </edge>
+    <edge source="Neuss" target="Recklinghausen">
+      <data key="d3">53.556530573934864</data>
+      <data key="d4">0.01867185923515898</data>
+    </edge>
+    <edge source="Neuss" target="Herten">
+      <data key="d3">53.756149574857005</data>
+      <data key="d4">0.018602522835224105</data>
+    </edge>
+    <edge source="Neuss" target="Siegburg">
+      <data key="d3">56.74492938444885</data>
+      <data key="d4">0.01762271996542573</data>
+    </edge>
+    <edge source="Neuss" target="Eilendorf">
+      <data key="d3">60.11345962526975</data>
+      <data key="d4">0.016635209589228706</data>
+    </edge>
+    <edge source="Neuss" target="Reutlingen" />
+    <edge source="Neuss" target="Eppelheim" />
+    <edge source="Neuss" target="Steinbach am Taunus" />
+    <edge source="Neuss" target="Heilbronn" />
+    <edge source="Neuss" target="Eichenau" />
+    <edge source="Neuss" target="Ulm" />
+    <edge source="Neuss" target="Bad Soden am Taunus" />
+    <edge source="Neuss" target="Sankt Augustin" />
+    <edge source="Neuss" target="Trier" />
+    <edge source="Neuss" target="Pinneberg" />
+    <edge source="Neuss" target="Rosenheim" />
+    <edge source="Neuss" target="Altbach" />
+    <edge source="Neuss" target="Moers" />
+    <edge source="Neuss" target="Unterschleißheim" />
+    <edge source="Neuss" target="Weingarten" />
+    <edge source="Ingolstadt" target="Erlangen">
+      <data key="d3">95.95232744369741</data>
+      <data key="d4">0.010421842040119107</data>
+    </edge>
+    <edge source="Ingolstadt" target="Rosenheim">
+      <data key="d3">114.32194964860868</data>
+      <data key="d4">0.008747226609358042</data>
+    </edge>
+    <edge source="Ingolstadt" target="Unterhaching">
+      <data key="d3">78.73864267293563</data>
+      <data key="d4">0.012700244327982608</data>
+    </edge>
+    <edge source="Ingolstadt" target="Ludwigsburg" />
+    <edge source="Ingolstadt" target="Koblenz" />
+    <edge source="Ingolstadt" target="Eschborn" />
+    <edge source="Ingolstadt" target="Hattersheim" />
+    <edge source="Ingolstadt" target="Fellbach" />
+    <edge source="Ingolstadt" target="Gladbeck" />
+    <edge source="Ingolstadt" target="Haar" />
+    <edge source="Ingolstadt" target="Recklinghausen" />
+    <edge source="Ingolstadt" target="Kriftel" />
+    <edge source="Ingolstadt" target="Bad Soden am Taunus" />
+    <edge source="Fürth" target="Erlangen">
+      <data key="d3">13.024480997787267</data>
+      <data key="d4">0.07677849122509299</data>
+    </edge>
+    <edge source="Fürth" target="Esslingen">
+      <data key="d3">147.5159323819773</data>
+      <data key="d4">0.006778928783167658</data>
+    </edge>
+    <edge source="Fürth" target="Ludwigsburg">
+      <data key="d3">146.20580847997627</data>
+      <data key="d4">0.006839673542361046</data>
+    </edge>
+    <edge source="Fürth" target="Fellbach">
+      <data key="d3">145.54866143986933</data>
+      <data key="d4">0.006870554425628511</data>
+    </edge>
+    <edge source="Fürth" target="Gröbenzell">
+      <data key="d3">143.41424730487356</data>
+      <data key="d4">0.00697280792384717</data>
+    </edge>
+    <edge source="Fürth" target="Altbach">
+      <data key="d3">144.31032938111676</data>
+      <data key="d4">0.006929510897026971</data>
+    </edge>
+    <edge source="Fürth" target="Weißenthurm" />
+    <edge source="Fürth" target="Bergisch Gladbach" />
+    <edge source="Fürth" target="Wolfratshausen" />
+    <edge source="Fürth" target="Sankt Augustin" />
+    <edge source="Fürth" target="Moers" />
+    <edge source="Fürth" target="Eichenau" />
+    <edge source="Fürth" target="Unterhaching" />
+    <edge source="Ulm" target="Esslingen">
+      <data key="d3">61.596242869752786</data>
+      <data key="d4">0.016234756430104542</data>
+    </edge>
+    <edge source="Ulm" target="Fellbach">
+      <data key="d3">69.18810021853699</data>
+      <data key="d4">0.014453352481733244</data>
+    </edge>
+    <edge source="Ulm" target="Unterhaching">
+      <data key="d3">126.42743829375884</data>
+      <data key="d4">0.007909675411412378</data>
+    </edge>
+    <edge source="Ulm" target="Siegen" />
+    <edge source="Ulm" target="Kronshagen" />
+    <edge source="Ulm" target="Siegburg" />
+    <edge source="Ulm" target="Weingarten" />
+    <edge source="Ulm" target="Sankt Augustin" />
+    <edge source="Ulm" target="Weißenthurm" />
+    <edge source="Ulm" target="Eilendorf" />
+    <edge source="Ulm" target="Gladbeck" />
+    <edge source="Ulm" target="Ludwigsburg" />
+    <edge source="Ulm" target="Würzburg" />
+    <edge source="Ulm" target="Göttingen" />
+    <edge source="Ulm" target="Eschborn" />
+    <edge source="Heilbronn" target="Würzburg">
+      <data key="d3">87.51578952290778</data>
+      <data key="d4">0.011426509495617862</data>
+    </edge>
+    <edge source="Heilbronn" target="Reutlingen">
+      <data key="d3">74.14116194270898</data>
+      <data key="d4">0.01348778429953295</data>
+    </edge>
+    <edge source="Heilbronn" target="Eschborn">
+      <data key="d3">119.97317248877336</data>
+      <data key="d4">0.008335196771541374</data>
+    </edge>
+    <edge source="Heilbronn" target="Eppelheim">
+      <data key="d3">50.747174703678326</data>
+      <data key="d4">0.01970553052143643</data>
+    </edge>
+    <edge source="Heilbronn" target="Buckenhof">
+      <data key="d3">141.99771381827048</data>
+      <data key="d4">0.007042366902327779</data>
+    </edge>
+    <edge source="Heilbronn" target="Bergisch Gladbach" />
+    <edge source="Heilbronn" target="Halle-Neustadt" />
+    <edge source="Heilbronn" target="Siegen" />
+    <edge source="Heilbronn" target="Pforzheim" />
+    <edge source="Heilbronn" target="Hildesheim" />
+    <edge source="Heilbronn" target="Wentorf bei Hamburg" />
+    <edge source="Heilbronn" target="Moers" />
+    <edge source="Heilbronn" target="Koblenz" />
+    <edge source="Heilbronn" target="Ostfildern" />
+    <edge source="Heilbronn" target="Hanau" />
+    <edge source="Heilbronn" target="Neulußheim" />
+    <edge source="Heilbronn" target="Eilendorf" />
+    <edge source="Heilbronn" target="Steinbach am Taunus" />
+    <edge source="Heilbronn" target="Schwerin" />
+    <edge source="Heilbronn" target="Altbach" />
+    <edge source="Heilbronn" target="Kriftel" />
+    <edge source="Pforzheim" target="Würzburg">
+      <data key="d3">133.14434032269222</data>
+      <data key="d4">0.00751064594692026</data>
+    </edge>
+    <edge source="Pforzheim" target="Esslingen">
+      <data key="d3">48.39044236164571</data>
+      <data key="d4">0.020665237827885628</data>
+    </edge>
+    <edge source="Pforzheim" target="Ludwigsburg">
+      <data key="d3">35.724304400479426</data>
+      <data key="d4">0.027992147552817846</data>
+    </edge>
+    <edge source="Pforzheim" target="Kornwestheim">
+      <data key="d3">35.44004324101154</data>
+      <data key="d4">0.028216669861248673</data>
+    </edge>
+    <edge source="Pforzheim" target="Asperg">
+      <data key="d3">31.408618217106564</data>
+      <data key="d4">0.03183839521648725</data>
+    </edge>
+    <edge source="Pforzheim" target="Kriftel">
+      <data key="d3">133.44666309014764</data>
+      <data key="d4">0.007493630614985606</data>
+    </edge>
+    <edge source="Pforzheim" target="Steinbach am Taunus">
+      <data key="d3">141.792297118531</data>
+      <data key="d4">0.007052569288471658</data>
+    </edge>
+    <edge source="Pforzheim" target="Gütersloh" />
+    <edge source="Pforzheim" target="Trier" />
+    <edge source="Pforzheim" target="Haar" />
+    <edge source="Pforzheim" target="Remscheid" />
+    <edge source="Pforzheim" target="Koblenz" />
+    <edge source="Pforzheim" target="Glinde" />
+    <edge source="Pforzheim" target="Kronshagen" />
+    <edge source="Pforzheim" target="Eichenau" />
+    <edge source="Pforzheim" target="Wolfsburg" />
+    <edge source="Pforzheim" target="Gladbeck" />
+    <edge source="Pforzheim" target="Hanau" />
+    <edge source="Pforzheim" target="Siegen" />
+    <edge source="Würzburg" target="Hattersheim">
+      <data key="d3">108.74583921878295</data>
+      <data key="d4">0.009195754128929253</data>
+    </edge>
+    <edge source="Würzburg" target="Eppelheim">
+      <data key="d3">103.20575799280724</data>
+      <data key="d4">0.009689381866365377</data>
+    </edge>
+    <edge source="Würzburg" target="Steinbach am Taunus">
+      <data key="d3">106.90213534396308</data>
+      <data key="d4">0.009354350095837178</data>
+    </edge>
+    <edge source="Würzburg" target="Bergisch Gladbach" />
+    <edge source="Würzburg" target="Hilden" />
+    <edge source="Würzburg" target="Puchheim" />
+    <edge source="Würzburg" target="Gütersloh" />
+    <edge source="Würzburg" target="Siegburg" />
+    <edge source="Würzburg" target="Remscheid" />
+    <edge source="Würzburg" target="Weingarten" />
+    <edge source="Würzburg" target="Flensburg" />
+    <edge source="Würzburg" target="Altbach" />
+    <edge source="Wolfsburg" target="Siegburg" />
+    <edge source="Wolfsburg" target="Sankt Augustin" />
+    <edge source="Wolfsburg" target="Bergisch Gladbach" />
+    <edge source="Wolfsburg" target="Unterschleißheim" />
+    <edge source="Wolfsburg" target="Merzhausen" />
+    <edge source="Wolfsburg" target="Ludwigsburg" />
+    <edge source="Wolfsburg" target="Remscheid" />
+    <edge source="Wolfsburg" target="Gütersloh" />
+    <edge source="Göttingen" target="Altbach" />
+    <edge source="Göttingen" target="Asperg" />
+    <edge source="Göttingen" target="Gütersloh" />
+    <edge source="Göttingen" target="Salzgitter" />
+    <edge source="Göttingen" target="Eschborn" />
+    <edge source="Göttingen" target="Neulußheim" />
+    <edge source="Göttingen" target="Remscheid" />
+    <edge source="Bottrop" target="Remscheid">
+      <data key="d3">42.6092850175689</data>
+      <data key="d4">0.023469063129965086</data>
+    </edge>
+    <edge source="Bottrop" target="Sankt Augustin">
+      <data key="d3">85.9678081142362</data>
+      <data key="d4">0.011632261214234689</data>
+    </edge>
+    <edge source="Bottrop" target="Hattersheim" />
+    <edge source="Bottrop" target="Germering" />
+    <edge source="Bottrop" target="Herten" />
+    <edge source="Bottrop" target="Schenefeld" />
+    <edge source="Bottrop" target="Eppelheim" />
+    <edge source="Bottrop" target="Schwerin" />
+    <edge source="Bottrop" target="Neulußheim" />
+    <edge source="Bottrop" target="Siegen" />
+    <edge source="Bottrop" target="Kaiserslautern" />
+    <edge source="Bottrop" target="Koblenz" />
+    <edge source="Bottrop" target="Steinbach am Taunus" />
+    <edge source="Bottrop" target="Weißenthurm" />
+    <edge source="Bottrop" target="Gladbeck" />
+    <edge source="Bottrop" target="Elmshorn" />
+    <edge source="Bottrop" target="Kornwestheim" />
+    <edge source="Bottrop" target="Siegburg" />
+    <edge source="Bottrop" target="Hilden" />
+    <edge source="Bottrop" target="Gütersloh" />
+    <edge source="Bottrop" target="Bergisch Gladbach" />
+    <edge source="Reutlingen" target="Kornwestheim">
+      <data key="d3">41.932297830156884</data>
+      <data key="d4">0.02384796569103875</data>
+    </edge>
+    <edge source="Reutlingen" target="Neulußheim">
+      <data key="d3">103.48952626368282</data>
+      <data key="d4">0.009662813582237124</data>
+    </edge>
+    <edge source="Reutlingen" target="Eichenau" />
+    <edge source="Reutlingen" target="Wolfratshausen" />
+    <edge source="Reutlingen" target="Eilendorf" />
+    <edge source="Reutlingen" target="Hilden" />
+    <edge source="Reutlingen" target="Sankt Augustin" />
+    <edge source="Reutlingen" target="Schenefeld" />
+    <edge source="Reutlingen" target="Hattersheim" />
+    <edge source="Reutlingen" target="Steinbach am Taunus" />
+    <edge source="Reutlingen" target="Esslingen" />
+    <edge source="Erlangen" target="Buckenhof">
+      <data key="d3">2.6809159991160723</data>
+      <data key="d4">0.373006838084338</data>
+    </edge>
+    <edge source="Bremerhaven" target="Asperg" />
+    <edge source="Bremerhaven" target="Pinneberg" />
+    <edge source="Bremerhaven" target="Weißenthurm" />
+    <edge source="Bremerhaven" target="Ludwigsburg" />
+    <edge source="Bremerhaven" target="Eichenau" />
+    <edge source="Bremerhaven" target="Rosenheim" />
+    <edge source="Bremerhaven" target="Obertshausen" />
+    <edge source="Koblenz" target="Remscheid">
+      <data key="d3">95.82111403128549</data>
+      <data key="d4">0.010436113273255216</data>
+    </edge>
+    <edge source="Koblenz" target="Moers">
+      <data key="d3">140.33111909632586</data>
+      <data key="d4">0.007126003173348753</data>
+    </edge>
+    <edge source="Koblenz" target="Siegen">
+      <data key="d3">65.3553973651781</data>
+      <data key="d4">0.0153009550904025</data>
+    </edge>
+    <edge source="Koblenz" target="Gladbeck">
+      <data key="d3">141.40483328609048</data>
+      <data key="d4">0.0070718940559605795</data>
+    </edge>
+    <edge source="Koblenz" target="Hattersheim">
+      <data key="d3">71.02871648749564</data>
+      <data key="d4">0.014078812759851102</data>
+    </edge>
+    <edge source="Koblenz" target="Weißenthurm">
+      <data key="d3">11.499163908748676</data>
+      <data key="d4">0.08696284424984936</data>
+    </edge>
+    <edge source="Koblenz" target="Neulußheim">
+      <data key="d3">135.97455769986186</data>
+      <data key="d4">0.007354316990736686</data>
+    </edge>
+    <edge source="Koblenz" target="Altbach" />
+    <edge source="Koblenz" target="Ludwigsburg" />
+    <edge source="Koblenz" target="Obertshausen" />
+    <edge source="Koblenz" target="Unterschleißheim" />
+    <edge source="Koblenz" target="Eppelheim" />
+    <edge source="Koblenz" target="Glinde" />
+    <edge source="Koblenz" target="Rosenheim" />
+    <edge source="Koblenz" target="Siegburg" />
+    <edge source="Koblenz" target="Pinneberg" />
+    <edge source="Koblenz" target="Kornwestheim" />
+    <edge source="Koblenz" target="Esslingen" />
+    <edge source="Koblenz" target="Kronshagen" />
+    <edge source="Koblenz" target="Bad Soden am Taunus" />
+    <edge source="Koblenz" target="Merzhausen" />
+    <edge source="Koblenz" target="Trier" />
+    <edge source="Koblenz" target="Haar" />
+    <edge source="Koblenz" target="Elmshorn" />
+    <edge source="Bergisch Gladbach" target="Moers">
+      <data key="d3">63.056881425690825</data>
+      <data key="d4">0.015858697375931076</data>
+    </edge>
+    <edge source="Bergisch Gladbach" target="Gütersloh">
+      <data key="d3">133.40602695551175</data>
+      <data key="d4">0.0074959132118782015</data>
+    </edge>
+    <edge source="Bergisch Gladbach" target="Gladbeck">
+      <data key="d3">64.97034563220251</data>
+      <data key="d4">0.015391637373471977</data>
+    </edge>
+    <edge source="Bergisch Gladbach" target="Herten">
+      <data key="d3">67.66496661224072</data>
+      <data key="d4">0.014778696422486642</data>
+    </edge>
+    <edge source="Bergisch Gladbach" target="Eschborn">
+      <data key="d3">138.94327500561693</data>
+      <data key="d4">0.007197181727288161</data>
+    </edge>
+    <edge source="Bergisch Gladbach" target="Eilendorf">
+      <data key="d3">72.08609910372367</data>
+      <data key="d4">0.013872300102702384</data>
+    </edge>
+    <edge source="Bergisch Gladbach" target="Weißenthurm">
+      <data key="d3">68.33833997742013</data>
+      <data key="d4">0.014633074205934953</data>
+    </edge>
+    <edge source="Bergisch Gladbach" target="Elmshorn" />
+    <edge source="Bergisch Gladbach" target="Jena" />
+    <edge source="Bergisch Gladbach" target="Esslingen" />
+    <edge source="Bergisch Gladbach" target="Hilden" />
+    <edge source="Bergisch Gladbach" target="Kornwestheim" />
+    <edge source="Bergisch Gladbach" target="Eppelheim" />
+    <edge source="Bergisch Gladbach" target="Eichenau" />
+    <edge source="Bergisch Gladbach" target="Siegburg" />
+    <edge source="Bergisch Gladbach" target="Salzgitter" />
+    <edge source="Bergisch Gladbach" target="Hattersheim" />
+    <edge source="Bergisch Gladbach" target="Ludwigsburg" />
+    <edge source="Bergisch Gladbach" target="Unterschleißheim" />
+    <edge source="Bergisch Gladbach" target="Hanau" />
+    <edge source="Bergisch Gladbach" target="Wolfratshausen" />
+    <edge source="Bergisch Gladbach" target="Ostfildern" />
+    <edge source="Bergisch Gladbach" target="Gröbenzell" />
+    <edge source="Remscheid" target="Recklinghausen">
+      <data key="d3">44.770020294099034</data>
+      <data key="d4">0.022336375847741265</data>
+    </edge>
+    <edge source="Remscheid" target="Siegen" />
+    <edge source="Remscheid" target="Bad Soden am Taunus" />
+    <edge source="Remscheid" target="Kaiserslautern" />
+    <edge source="Remscheid" target="Eichenau" />
+    <edge source="Remscheid" target="Eschborn" />
+    <edge source="Remscheid" target="Buckenhof" />
+    <edge source="Remscheid" target="Hattersheim" />
+    <edge source="Remscheid" target="Merzhausen" />
+    <edge source="Remscheid" target="Siegburg" />
+    <edge source="Remscheid" target="Kriftel" />
+    <edge source="Remscheid" target="Hanau" />
+    <edge source="Remscheid" target="Ostfildern" />
+    <edge source="Trier" target="Germering" />
+    <edge source="Trier" target="Siegen" />
+    <edge source="Trier" target="Weißenthurm" />
+    <edge source="Trier" target="Hattersheim" />
+    <edge source="Trier" target="Steinbach am Taunus" />
+    <edge source="Trier" target="Kriftel" />
+    <edge source="Trier" target="Altbach" />
+    <edge source="Trier" target="Siegburg" />
+    <edge source="Trier" target="Sankt Augustin" />
+    <edge source="Recklinghausen" target="Hilden">
+      <data key="d3">48.55297444381532</data>
+      <data key="d4">0.020596060518541105</data>
+    </edge>
+    <edge source="Recklinghausen" target="Unterschleißheim" />
+    <edge source="Recklinghausen" target="Unterhaching" />
+    <edge source="Recklinghausen" target="Siegburg" />
+    <edge source="Recklinghausen" target="Hanau" />
+    <edge source="Recklinghausen" target="Weißenthurm" />
+    <edge source="Recklinghausen" target="Halle-Neustadt" />
+    <edge source="Recklinghausen" target="Flensburg" />
+    <edge source="Recklinghausen" target="Gütersloh" />
+    <edge source="Recklinghausen" target="Bad Soden am Taunus" />
+    <edge source="Recklinghausen" target="Eppelheim" />
+    <edge source="Recklinghausen" target="Schwerin" />
+    <edge source="Jena" target="Kornwestheim" />
+    <edge source="Jena" target="Obertshausen" />
+    <edge source="Moers" target="Gütersloh">
+      <data key="d3">131.46899209324923</data>
+      <data key="d4">0.0076063563284239155</data>
+    </edge>
+    <edge source="Moers" target="Siegburg">
+      <data key="d3">83.84828990186594</data>
+      <data key="d4">0.011926301671392182</data>
+    </edge>
+    <edge source="Moers" target="Weißenthurm">
+      <data key="d3">130.39544281157646</data>
+      <data key="d4">0.0076689796701332295</data>
+    </edge>
+    <edge source="Moers" target="Germering" />
+    <edge source="Moers" target="Neulußheim" />
+    <edge source="Moers" target="Asperg" />
+    <edge source="Moers" target="Kaiserslautern" />
+    <edge source="Moers" target="Elmshorn" />
+    <edge source="Moers" target="Weingarten" />
+    <edge source="Moers" target="Eschborn" />
+    <edge source="Moers" target="Flensburg" />
+    <edge source="Moers" target="Esslingen" />
+    <edge source="Moers" target="Unterhaching" />
+    <edge source="Moers" target="Glinde" />
+    <edge source="Moers" target="Bad Soden am Taunus" />
+    <edge source="Moers" target="Wentorf bei Hamburg" />
+    <edge source="Moers" target="Kriftel" />
+    <edge source="Moers" target="Pinneberg" />
+    <edge source="Moers" target="Merzhausen" />
+    <edge source="Salzgitter" target="Siegburg" />
+    <edge source="Salzgitter" target="Altbach" />
+    <edge source="Salzgitter" target="Sankt Augustin" />
+    <edge source="Salzgitter" target="Ostfildern" />
+    <edge source="Salzgitter" target="Bad Soden am Taunus" />
+    <edge source="Salzgitter" target="Weißenthurm" />
+    <edge source="Salzgitter" target="Esslingen" />
+    <edge source="Salzgitter" target="Steinbach am Taunus" />
+    <edge source="Siegen" target="Hanau">
+      <data key="d3">105.10546774393467</data>
+      <data key="d4">0.00951425288774006</data>
+    </edge>
+    <edge source="Siegen" target="Gladbeck">
+      <data key="d3">105.64282410178978</data>
+      <data key="d4">0.009465858268200709</data>
+    </edge>
+    <edge source="Siegen" target="Sankt Augustin">
+      <data key="d3">59.823381429627375</data>
+      <data key="d4">0.0167158722242463</data>
+    </edge>
+    <edge source="Siegen" target="Siegburg">
+      <data key="d3">57.93516440463223</data>
+      <data key="d4">0.017260674242948113</data>
+    </edge>
+    <edge source="Siegen" target="Obertshausen">
+      <data key="d3">107.75581780361969</data>
+      <data key="d4">0.009280241386339405</data>
+    </edge>
+    <edge source="Siegen" target="Eilendorf">
+      <data key="d3">131.1386630205066</data>
+      <data key="d4">0.007625516205267599</data>
+    </edge>
+    <edge source="Siegen" target="Weißenthurm">
+      <data key="d3">65.32723367001427</data>
+      <data key="d4">0.015307551595576107</data>
+    </edge>
+    <edge source="Siegen" target="Kornwestheim" />
+    <edge source="Siegen" target="Fellbach" />
+    <edge source="Siegen" target="Puchheim" />
+    <edge source="Siegen" target="Eppelheim" />
+    <edge source="Siegen" target="Unterhaching" />
+    <edge source="Siegen" target="Neulußheim" />
+    <edge source="Siegen" target="Kriftel" />
+    <edge source="Siegen" target="Unterschleißheim" />
+    <edge source="Siegen" target="Gütersloh" />
+    <edge source="Siegen" target="Ludwigsburg" />
+    <edge source="Siegen" target="Hattersheim" />
+    <edge source="Siegen" target="Eschborn" />
+    <edge source="Siegen" target="Germering" />
+    <edge source="Siegen" target="Wolfratshausen" />
+    <edge source="Siegen" target="Elmshorn" />
+    <edge source="Siegen" target="Eichwalde" />
+    <edge source="Siegen" target="Steinbach am Taunus" />
+    <edge source="Siegen" target="Pinneberg" />
+    <edge source="Gütersloh" target="Hildesheim">
+      <data key="d3">111.07486787947515</data>
+      <data key="d4">0.009002936659668842</data>
+    </edge>
+    <edge source="Gütersloh" target="Hilden">
+      <data key="d3">128.87006304678258</data>
+      <data key="d4">0.007759754099266473</data>
+    </edge>
+    <edge source="Gütersloh" target="Weingarten" />
+    <edge source="Gütersloh" target="Neulußheim" />
+    <edge source="Gütersloh" target="Schenefeld" />
+    <edge source="Gütersloh" target="Asperg" />
+    <edge source="Gütersloh" target="Siegburg" />
+    <edge source="Gütersloh" target="Herten" />
+    <edge source="Gütersloh" target="Gröbenzell" />
+    <edge source="Gütersloh" target="Germering" />
+    <edge source="Gütersloh" target="Esslingen" />
+    <edge source="Hildesheim" target="Sankt Augustin" />
+    <edge source="Hildesheim" target="Herten" />
+    <edge source="Hildesheim" target="Kriftel" />
+    <edge source="Hildesheim" target="Wentorf bei Hamburg" />
+    <edge source="Hanau" target="Kaiserslautern">
+      <data key="d3">112.65292187848864</data>
+      <data key="d4">0.008876822574372592</data>
+    </edge>
+    <edge source="Hanau" target="Siegburg">
+      <data key="d3">142.5232602946671</data>
+      <data key="d4">0.0070163985719418585</data>
+    </edge>
+    <edge source="Hanau" target="Kornwestheim">
+      <data key="d3">142.9097929195636</data>
+      <data key="d4">0.006997421097397064</data>
+    </edge>
+    <edge source="Hanau" target="Asperg">
+      <data key="d3">138.0040319659128</data>
+      <data key="d4">0.007246165099342906</data>
+    </edge>
+    <edge source="Hanau" target="Herten" />
+    <edge source="Hanau" target="Pinneberg" />
+    <edge source="Hanau" target="Ottobrunn" />
+    <edge source="Hanau" target="Ostfildern" />
+    <edge source="Hanau" target="Eppelheim" />
+    <edge source="Hanau" target="Hilden" />
+    <edge source="Hanau" target="Ludwigsburg" />
+    <edge source="Hanau" target="Eichenau" />
+    <edge source="Hanau" target="Gröbenzell" />
+    <edge source="Hanau" target="Wentorf bei Hamburg" />
+    <edge source="Kaiserslautern" target="Kornwestheim">
+      <data key="d3">122.08562939300347</data>
+      <data key="d4">0.008190972229671025</data>
+    </edge>
+    <edge source="Kaiserslautern" target="Siegburg" />
+    <edge source="Kaiserslautern" target="Hilden" />
+    <edge source="Kaiserslautern" target="Ottobrunn" />
+    <edge source="Kaiserslautern" target="Bad Soden am Taunus" />
+    <edge source="Kaiserslautern" target="Eilendorf" />
+    <edge source="Kaiserslautern" target="Herten" />
+    <edge source="Kaiserslautern" target="Weißenthurm" />
+    <edge source="Kaiserslautern" target="Eschborn" />
+    <edge source="Kaiserslautern" target="Puchheim" />
+    <edge source="Kaiserslautern" target="Asperg" />
+    <edge source="Kaiserslautern" target="Hattersheim" />
+    <edge source="Kaiserslautern" target="Elmshorn" />
+    <edge source="Kaiserslautern" target="Wentorf bei Hamburg" />
+    <edge source="Schwerin" target="Eschborn" />
+    <edge source="Schwerin" target="Eppelheim" />
+    <edge source="Schwerin" target="Kriftel" />
+    <edge source="Schwerin" target="Obertshausen" />
+    <edge source="Esslingen" target="Eppelheim">
+      <data key="d3">89.39307445567529</data>
+      <data key="d4">0.011186548914321552</data>
+    </edge>
+    <edge source="Esslingen" target="Weißenthurm" />
+    <edge source="Esslingen" target="Flensburg" />
+    <edge source="Esslingen" target="Obertshausen" />
+    <edge source="Esslingen" target="Gladbeck" />
+    <edge source="Esslingen" target="Hilden" />
+    <edge source="Esslingen" target="Asperg" />
+    <edge source="Ludwigsburg" target="Kornwestheim">
+      <data key="d3">4.223841559046024</data>
+      <data key="d4">0.23675130471178352</data>
+    </edge>
+    <edge source="Ludwigsburg" target="Sankt Augustin" />
+    <edge source="Ludwigsburg" target="Glinde" />
+    <edge source="Ludwigsburg" target="Herten" />
+    <edge source="Ludwigsburg" target="Weißenthurm" />
+    <edge source="Ludwigsburg" target="Haar" />
+    <edge source="Ludwigsburg" target="Asperg" />
+    <edge source="Ludwigsburg" target="Kronshagen" />
+    <edge source="Ludwigsburg" target="Obertshausen" />
+    <edge source="Ludwigsburg" target="Eichenau" />
+    <edge source="Flensburg" target="Asperg" />
+    <edge source="Gladbeck" target="Sankt Augustin">
+      <data key="d3">89.95972542667542</data>
+      <data key="d4">0.011116085506675788</data>
+    </edge>
+    <edge source="Gladbeck" target="Hilden">
+      <data key="d3">44.020305090629925</data>
+      <data key="d4">0.02271678939846462</data>
+    </edge>
+    <edge source="Gladbeck" target="Weißenthurm">
+      <data key="d3">132.79791824887755</data>
+      <data key="d4">0.0075302385247176295</data>
+    </edge>
+    <edge source="Gladbeck" target="Obertshausen" />
+    <edge source="Gladbeck" target="Asperg" />
+    <edge source="Gladbeck" target="Neubiberg" />
+    <edge source="Gladbeck" target="Siegburg" />
+    <edge source="Gladbeck" target="Herten" />
+    <edge source="Gladbeck" target="Eppelheim" />
+    <edge source="Gladbeck" target="Kronshagen" />
+    <edge source="Gladbeck" target="Weingarten" />
+    <edge source="Gladbeck" target="Unterhaching" />
+    <edge source="Rosenheim" target="Eichenau">
+      <data key="d3">70.37271790555816</data>
+      <data key="d4">0.01421005227255857</data>
+    </edge>
+    <edge source="Rosenheim" target="Weißenthurm" />
+    <edge source="Rosenheim" target="Asperg" />
+    <edge source="Rosenheim" target="Kriftel" />
+    <edge source="Rosenheim" target="Wentorf bei Hamburg" />
+    <edge source="Herten" target="Eppelheim" />
+    <edge source="Herten" target="Weißenthurm" />
+    <edge source="Herten" target="Kriftel" />
+    <edge source="Herten" target="Gröbenzell" />
+    <edge source="Herten" target="Siegburg" />
+    <edge source="Herten" target="Sankt Augustin" />
+    <edge source="Herten" target="Hilden" />
+    <edge source="Herten" target="Obertshausen" />
+    <edge source="Herten" target="Neulußheim" />
+    <edge source="Herten" target="Ottobrunn" />
+    <edge source="Herten" target="Haar" />
+    <edge source="Herten" target="Fellbach" />
+    <edge source="Herten" target="Glinde" />
+    <edge source="Herten" target="Hattersheim" />
+    <edge source="Herten" target="Wolfratshausen" />
+    <edge source="Sankt Augustin" target="Hilden">
+      <data key="d3">47.91442591537106</data>
+      <data key="d4">0.020870541197055177</data>
+    </edge>
+    <edge source="Sankt Augustin" target="Hattersheim">
+      <data key="d3">120.64764342372868</data>
+      <data key="d4">0.008288599525213125</data>
+    </edge>
+    <edge source="Sankt Augustin" target="Bad Soden am Taunus">
+      <data key="d3">117.11247853187835</data>
+      <data key="d4">0.008538799729422489</data>
+    </edge>
+    <edge source="Sankt Augustin" target="Eilendorf">
+      <data key="d3">72.25108171396018</data>
+      <data key="d4">0.013840623230513965</data>
+    </edge>
+    <edge source="Sankt Augustin" target="Kriftel">
+      <data key="d3">117.86733144508452</data>
+      <data key="d4">0.008484115044768866</data>
+    </edge>
+    <edge source="Sankt Augustin" target="Weißenthurm">
+      <data key="d3">44.05600093592828</data>
+      <data key="d4">0.02269838339286229</data>
+    </edge>
+    <edge source="Sankt Augustin" target="Buckenhof" />
+    <edge source="Sankt Augustin" target="Glinde" />
+    <edge source="Sankt Augustin" target="Asperg" />
+    <edge source="Sankt Augustin" target="Unterhaching" />
+    <edge source="Sankt Augustin" target="Steinbach am Taunus" />
+    <edge source="Sankt Augustin" target="Eschborn" />
+    <edge source="Sankt Augustin" target="Elmshorn" />
+    <edge source="Hilden" target="Obertshausen" />
+    <edge source="Hilden" target="Kornwestheim" />
+    <edge source="Hilden" target="Weingarten" />
+    <edge source="Hilden" target="Weißenthurm" />
+    <edge source="Hilden" target="Steinbach am Taunus" />
+    <edge source="Hilden" target="Eilendorf" />
+    <edge source="Hilden" target="Hattersheim" />
+    <edge source="Hilden" target="Eppelheim" />
+    <edge source="Elmshorn" target="Puchheim" />
+    <edge source="Halle-Neustadt" target="Ostfildern" />
+    <edge source="Halle-Neustadt" target="Asperg" />
+    <edge source="Halle-Neustadt" target="Unterschleißheim" />
+    <edge source="Halle-Neustadt" target="Neubiberg" />
+    <edge source="Fellbach" target="Eppelheim">
+      <data key="d3">80.78767215548415</data>
+      <data key="d4">0.012378126183353787</data>
+    </edge>
+    <edge source="Fellbach" target="Asperg">
+      <data key="d3">14.583191741393716</data>
+      <data key="d4">0.06857209434897206</data>
+    </edge>
+    <edge source="Fellbach" target="Altbach">
+      <data key="d3">12.126789385601139</data>
+      <data key="d4">0.08246205720265577</data>
+    </edge>
+    <edge source="Fellbach" target="Wentorf bei Hamburg" />
+    <edge source="Fellbach" target="Siegburg" />
+    <edge source="Fellbach" target="Kriftel" />
+    <edge source="Fellbach" target="Ottobrunn" />
+    <edge source="Fellbach" target="Ostfildern" />
+    <edge source="Fellbach" target="Neulußheim" />
+    <edge source="Pinneberg" target="Haar" />
+    <edge source="Pinneberg" target="Glinde" />
+    <edge source="Siegburg" target="Bad Soden am Taunus">
+      <data key="d3">118.25302077468343</data>
+      <data key="d4">0.008456443593989678</data>
+    </edge>
+    <edge source="Siegburg" target="Kriftel">
+      <data key="d3">119.20202031588782</data>
+      <data key="d4">0.008389119558124764</data>
+    </edge>
+    <edge source="Siegburg" target="Neulußheim" />
+    <edge source="Siegburg" target="Eppelheim" />
+    <edge source="Siegburg" target="Buckenhof" />
+    <edge source="Siegburg" target="Neubiberg" />
+    <edge source="Siegburg" target="Wolfratshausen" />
+    <edge source="Siegburg" target="Weißenthurm" />
+    <edge source="Siegburg" target="Ottobrunn" />
+    <edge source="Germering" target="Wolfratshausen">
+      <data key="d3">24.882909792129492</data>
+      <data key="d4">0.04018822590902539</data>
+    </edge>
+    <edge source="Germering" target="Puchheim" />
+    <edge source="Ostfildern" target="Kornwestheim">
+      <data key="d3">14.851289172906828</data>
+      <data key="d4">0.06733422185491464</data>
+    </edge>
+    <edge source="Ostfildern" target="Altbach">
+      <data key="d3">9.598924711479219</data>
+      <data key="d4">0.10417833560087351</data>
+    </edge>
+    <edge source="Ostfildern" target="Steinbach am Taunus" />
+    <edge source="Ostfildern" target="Eichwalde" />
+    <edge source="Ostfildern" target="Obertshausen" />
+    <edge source="Ostfildern" target="Eilendorf" />
+    <edge source="Kornwestheim" target="Weingarten">
+      <data key="d3">121.68263360353563</data>
+      <data key="d4">0.008218099579091817</data>
+    </edge>
+    <edge source="Kornwestheim" target="Eppelheim">
+      <data key="d3">72.32917905836786</data>
+      <data key="d4">0.01382567883416767</data>
+    </edge>
+    <edge source="Kornwestheim" target="Weißenthurm" />
+    <edge source="Kornwestheim" target="Asperg" />
+    <edge source="Kornwestheim" target="Glinde" />
+    <edge source="Kornwestheim" target="Merzhausen" />
+    <edge source="Kornwestheim" target="Kriftel" />
+    <edge source="Unterschleißheim" target="Eppelheim" />
+    <edge source="Unterschleißheim" target="Eilendorf" />
+    <edge source="Unterschleißheim" target="Bad Soden am Taunus" />
+    <edge source="Hattersheim" target="Eschborn">
+      <data key="d3">9.941743683316293</data>
+      <data key="d4">0.10058597685214385</data>
+    </edge>
+    <edge source="Hattersheim" target="Asperg">
+      <data key="d3">138.539672452107</data>
+      <data key="d4">0.007218149013205577</data>
+    </edge>
+    <edge source="Hattersheim" target="Steinbach am Taunus">
+      <data key="d3">11.977877114563482</data>
+      <data key="d4">0.08348724823567734</data>
+    </edge>
+    <edge source="Hattersheim" target="Obertshausen" />
+    <edge source="Hattersheim" target="Kronshagen" />
+    <edge source="Hattersheim" target="Weingarten" />
+    <edge source="Unterhaching" target="Weingarten">
+      <data key="d3">149.60196771935864</data>
+      <data key="d4">0.006684404057277644</data>
+    </edge>
+    <edge source="Unterhaching" target="Gröbenzell">
+      <data key="d3">23.465459237982113</data>
+      <data key="d4">0.04261582907277437</data>
+    </edge>
+    <edge source="Unterhaching" target="Buckenhof" />
+    <edge source="Obertshausen" target="Steinbach am Taunus">
+      <data key="d3">22.074949714288106</data>
+      <data key="d4">0.045300216441840666</data>
+    </edge>
+    <edge source="Obertshausen" target="Neulußheim">
+      <data key="d3">88.90690872263735</data>
+      <data key="d4">0.01124771982703501</data>
+    </edge>
+    <edge source="Obertshausen" target="Weißenthurm" />
+    <edge source="Obertshausen" target="Wentorf bei Hamburg" />
+    <edge source="Weingarten" target="Weißenthurm" />
+    <edge source="Weingarten" target="Eilendorf" />
+    <edge source="Weingarten" target="Merzhausen" />
+    <edge source="Bad Soden am Taunus" target="Neulußheim">
+      <data key="d3">93.44111436322167</data>
+      <data key="d4">0.010701927163591266</data>
+    </edge>
+    <edge source="Bad Soden am Taunus" target="Eichenau" />
+    <edge source="Bad Soden am Taunus" target="Eppelheim" />
+    <edge source="Bad Soden am Taunus" target="Weißenthurm" />
+    <edge source="Bad Soden am Taunus" target="Gröbenzell" />
+    <edge source="Bad Soden am Taunus" target="Steinbach am Taunus" />
+    <edge source="Haar" target="Eichenau">
+      <data key="d3">31.883276069814187</data>
+      <data key="d4">0.031364405521261976</data>
+    </edge>
+    <edge source="Ottobrunn" target="Eilendorf" />
+    <edge source="Ottobrunn" target="Merzhausen" />
+    <edge source="Ottobrunn" target="Eschborn" />
+    <edge source="Eschborn" target="Steinbach am Taunus">
+      <data key="d3">2.5802605278227424</data>
+      <data key="d4">0.38755776372853834</data>
+    </edge>
+    <edge source="Eschborn" target="Gröbenzell" />
+    <edge source="Eschborn" target="Puchheim" />
+    <edge source="Puchheim" target="Wolfratshausen">
+      <data key="d3">26.95089419623806</data>
+      <data key="d4">0.03710452027003931</data>
+    </edge>
+    <edge source="Puchheim" target="Steinbach am Taunus" />
+    <edge source="Gröbenzell" target="Neulußheim" />
+    <edge source="Schenefeld" target="Neulußheim" />
+    <edge source="Schenefeld" target="Neubiberg" />
+    <edge source="Schenefeld" target="Wolfratshausen" />
+    <edge source="Wolfratshausen" target="Eichenau">
+      <data key="d3">29.368502494193866</data>
+      <data key="d4">0.034050084787186526</data>
+    </edge>
+    <edge source="Wolfratshausen" target="Kriftel" />
+    <edge source="Wolfratshausen" target="Kronshagen" />
+    <edge source="Glinde" target="Eilendorf" />
+    <edge source="Eilendorf" target="Wentorf bei Hamburg" />
+    <edge source="Eilendorf" target="Neulußheim" />
+    <edge source="Eilendorf" target="Weißenthurm" />
+    <edge source="Eppelheim" target="Kriftel" />
+    <edge source="Neubiberg" target="Neulußheim" />
+    <edge source="Asperg" target="Weißenthurm" />
+    <edge source="Asperg" target="Neulußheim" />
+    <edge source="Asperg" target="Steinbach am Taunus" />
+    <edge source="Wentorf bei Hamburg" target="Steinbach am Taunus" />
+    <edge source="Kronshagen" target="Weißenthurm" />
+    <edge source="Kronshagen" target="Altbach" />
+    <edge source="Eichenau" target="Altbach" />
+    <edge source="Kriftel" target="Weißenthurm">
+      <data key="d3">79.60052998927554</data>
+      <data key="d4">0.012562730425723654</data>
+    </edge>
+    <edge source="Steinbach am Taunus" target="Weißenthurm">
+      <data key="d3">83.49952243324708</data>
+      <data key="d4">0.01197611639994038</data>
+    </edge>
+    <edge source="Steinbach am Taunus" target="Merzhausen" />
+    <edge source="Weißenthurm" target="Neulußheim">
+      <data key="d3">146.19463744535258</data>
+      <data key="d4">0.006840196175963014</data>
+    </edge>
+    <edge source="Weißenthurm" target="Merzhausen" />
+    <edge source="Weißenthurm" target="Altbach" />
+  </graph>
+</graphml>
